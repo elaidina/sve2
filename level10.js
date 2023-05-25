@@ -166,7 +166,7 @@ audio1.play();
     cardsChosenId = []
     resultDisplay.textContent = cardsWon.length
     if  (cardsWon.length === cardArray.length/2) {
-      resultDisplay.innerHTML = ' <h1>Congratulations! You found them all!</h1><h2>Level 10 completed!</h2><a href="https://elaidina.github.io/michelle/level11.html"> Continue to Level 11</a>';
+      resultDisplay.innerHTML = ' <h1>Congratulations! You found them all!</h1><h2>Level 10 completed!</h2><a href="https://elaidina.github.io/sve2/level11.html"> Continue to Level 11</a>';
 
 
       var audio3 = new Audio ("images/end.mp3")
