@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: "I´ll make a tea for you."
+      img: "Sedan sa han: "
     },
     {
       name: '1',
-      img: 'Uvarím ti čaj.'
+      img: ' Then he said: '
     },
     {
       name: '2',
-      img: "He´s got a sore throat and a headache."
+      img: "Nu har du tillräckligt med guld, men det stannar inte vid det."
     },
     {
       name: '2',
-      img: 'Bolí ho hrdlo a hlava.'
+      img: "Now you have enough gold, but it doesn't stop there. "
     },
     {
       name: '3',
-      img: 'They all have a tummy-ache.'
+      img: 'I morgon drar jag på mig stövlarna igen, för du ska bli ännu rikare. '
     },
     {
       name: '3',
-      img: 'Všetkých ich bolí bruško.'
+      img: "Tomorrow I'll put my boots back on, because you're going to be even richer. "
     },
     {
       name: '4',
-      img: "What´s the matter with me?"
+      img: "Till kungen sa jag, att du är greve."
     },
     {
       name: '4',
-      img: 'Čo je to so mnou?'
+      img: 'To the king I said, that you are a count.'
     },
     {
       name: '5',
-      img: 'We must stay at home.'
+      img: 'Nästa dag gick katten, med stövlarna på, åter på jakt och gick till kungen med sin fångst. .'
     },
     {
       name: '5',
-      img: 'Musíme zostať doma.'
+      img: 'The next day the cat, with his boots on, went hunting again and went to the king with his catch.'
     },
     {
       name: '6',
-      img: "I don´t want to catch a cold."
+      img: " Så gick det till varje dag, och katten hade guld med sig hem varenda gång. "
     },
     {
       name: '6',
-      img: 'Nechcem prechladnúť.'
+      img: "That's how it went every day, and the cat brought home gold every single time. "
     },
     {
       name: '7',
-      img: 'I keep eating a lot of fruits and vegetables and drinking warm tea with lemon and honey.'
+      img: 'Hos kungen var han så omtyckt, att han kunde gå ut och in i slottet så mycket han ville. '
     },
     {
       name: '7',
-      img: 'Stále jem veľa ovocia a zeleniny a pijem teplý čaj s citrónom a medom.'
+      img: 'He was so popular with the king that he could go in and out of the castle as much as he wanted.'
     },
     {
       name: '8',
-      img: 'Wipe your nose with a hanky.'
+      img: 'En gång när han var i köket för att värma sig lite, hörde han att kusken skulle köra en tur med kungen och prinsessan runt sjön.'
     },
     {
       name: '8',
-      img: 'Utri si nos vreckovkou.'
+      img: 'Once when he was in the kitchen to warm himself up a bit, he heard that the coachman was going to take the king and princess for a ride around the lake. '
     },
     {
       name: '9',
-      img: 'Come along with me.'
+      img: 'Då hämtade katten snabbt sin herre och gick med honom till sjön.'
     },
     {
       name: '9',
-      img: 'Poď so mnou.'
+      img: 'Then the cat quickly fetched his master and went with him to the lake.'
     },
     {
       name: '10',
-      img: 'You can help me if you like.'
+      img: 'Där fick mjölnarsonen ta av sig kläderna och bada. '
     },
     {
       name: '10',
-      img: 'Môžeš mi pomôcť, ak chceš.'
+      img: "There the miller's son had to take off his clothes and bathe. "
     },
     {
       name: '11',
-      img: 'She will come back in the afternoon.'
+      img: 'Men katten gömde sin herres kläder. '
     },
     {
       name: '11',
-      img: 'Poobede sa vráti.'
+      img: "But the cat hid his master's clothes. "
     },
     {
       name: '12',
-      img: 'I want to watch TV in the evening.'
+      img: 'När nu kungavagnen kom farande, klagade katten:'
     },
     {
       name: '12',
-      img: "Chcem večer pozerať televíziu."
+      img: "When the royal carriage arrived, the cat complained:"
     }
   ]
 

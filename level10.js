@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'dřevo'
+      img: 'Han knöt upp säcken med sädeskornen och lade den öppen på marken.'
     },
     {
       name: '1',
-      img: 'kniha'
+      img: 'He untied the sack of grain and laid it open on the ground.'
     },
     {
       name: '2',
-      img: 'plast'
+      img: 'Snöret lade han i gräset och drog det bort till en häck. '
     },
     {
       name: '2',
-      img: 'lego'
+      img: 'He laid the string in the grass and pulled it away to a hedge. '
     },
     {
       name: '3',
-      img: 'železo'
+      img: 'Där gömde han sig och låg på lur.'
     },
     {
       name: '3',
-      img: 'nůžky'
+      img: 'There he hid and lay in wait. '
     },
     {
       name: '4',
-      img: 'sklo'
+      img: 'Snart kom rapphönsen.'
     },
     {
       name: '4',
-      img: 'sklenice'
+      img: 'Soon the partridges arrived.'
     },
     {
       name: '5',
-      img: 'bavlna'
+      img: 'De hoppade in i kornsäcken. '
     },
     {
       name: '5',
-      img: 'tričko'
+      img: 'They jumped into the grain sack.'
     },
     {
       name: '6',
-      img: 'guma'
+      img: ' När tillräckligt många hade krupit in, drog katten åt snöret. '
     },
     {
       name: '6',
-      img: 'kolo'
+      img: 'When enough people had crawled in, the cat pulled the string. '
     },
     {
       name: '7',
-      img: 'uhlík'
+      img: 'Sedan tog han säcken på ryggen och gick raka vägen till kungens slott.'
     },
     {
       name: '7',
-      img: 'tuha'
+      img: "Then he put the sack on his back and went straight to the king's castle."
     },
     {
       name: '8',
-      img: "kakao"
+      img: "Stopp! Varthän? ropade vakten."
     },
     {
       name: '8',
-      img: 'čokoláda'
+      img: 'Stop! Where? shouted the guard.'
     },
     {
       name: '9',
-      img: 'obilí'
+      img: 'Till kungen, svarade katten frimodigt.'
     },
     {
       name: '9',
-      img: 'chléb'
+      img: 'To the king, answered the cat boldly.'
     },
     {
       name: '10',
-      img: 'mléko'
+      img: 'Eftersom kungen hade långtråkigt släpptes katten in.'
     },
     {
       name: '10',
-      img: 'sýr'
+      img: 'Since the king was bored, the cat was let in. '
     },
     {
       name: '11',
-      img: 'hliník'
+      img: 'Han bugade sig djupt för kungen och sa:'
     },
     {
       name: '11',
-      img: 'alobal'
+      img: 'He bowed deeply to the king and said:'
     },
     {
       name: '12',
-      img: 'zlato'
+      img: 'Min herre, greven, låter hälsa sin konung. '
     },
     {
       name: '12',
-      img: 'šperky'
+      img: 'My lord, the count, sends greetings to his king. '
     }
   ]
 
