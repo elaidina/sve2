@@ -3,11 +3,11 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'What do you think about it?'
+      img: 'Allernådigaste konung!'
     },
     {
       name: '1',
-      img: 'Čo si o tom myslíš?'
+      img: 'Most gracious king! '
     },
     {
       name: '2',
