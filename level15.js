@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'Tidy this room up, please.'
+      img: 'Även det kan jag, skröt trollkarlen.'
     },
     {
       name: '1',
-      img: 'Urobte v tejto izbe poriadok, prosím.'
+      img: 'I can do that too, boasted the wizard.'
     },
     {
       name: '2',
-      img: 'I´m looking for my pillow.'
+      img: 'Och genast sprang han omkring som en liten mus.'
     },
     {
       name: '2',
-      img: 'Hľadám svoj vankúš.'
+      img: 'And immediately he ran about like a little mouse.'
     },
     {
       name: '3',
-      img: 'Let´s dress our dolls up.'
+      img: 'Men vips, så fångade katten musen och åt upp den.'
     },
     {
       name: '3',
-      img: 'Oblečme naše bábiky.'
+      img: 'But suddenly, the cat caught the mouse and ate it.'
     },
     {
       name: '4',
-      img: 'What is the doll wearing?'
+      img: 'Under tiden hade vagnen med kungen, prinsessan och greven farit vidare och kom nu till den stora ängen.'
     },
     {
       name: '4',
-      img: 'Čo má bábika na sebe?'
+      img: 'In the meantime the carriage with the king, princess and count had moved on and now came to the great meadow.'
     },
     {
       name: '5',
-      img: 'The doll has got blue underpants, green trousers, yellow t-shirt, little shoes and a green jacket.'
+      img: 'Vem äger allt höet?'
     },
     {
       name: '5',
-      img: 'Bábika má modré spodky, zelené nohavice, žlté tričko, topánočky a zelené sako.'
+      img: 'Who owns all the hay?'
     },
     {
       name: '6',
-      img: 'You look so lovely in this dress.'
+      img: 'frågade kungen.'
     },
     {
       name: '6',
-      img: 'Vyzeráš tak krásne v týchto šatách.'
+      img: 'asked the king.'
     },
     {
       name: '7',
-      img: 'She is wearing a red skirt, white nickers, blue tights, a white blouse and a green jacket.'
+      img: 'Greven, svarade folket, precis som katten hade befallt dem.'
     },
     {
       name: '7',
-      img: 'Má na sebe červenú sukňu, biele nohavičky, modré pančušky, bielu blúzku a zelené sako.'
+      img: 'The count, answered the people, just as the cat had commanded them.'
     },
     {
       name: '8',
-      img: 'They are going for a trip today.'
+      img: 'Och när de kom fram till det stora sädesfältet och den stora skogen, så sa folket varje gång, att det tillhörde greven.'
     },
     {
       name: '8',
-      img: 'Dnes idú na výlet.'
+      img: 'And when they came to the great cornfield and the great forest, the people said each time that it belonged to the count.'
     },
     {
       name: '9',
-      img: 'They need to pack a lot of things.'
+      img: 'Kungen blev förvånad över all denna rikedom.'
     },
     {
       name: '9',
-      img: 'Musia si zbaliť veľa vecí.'
+      img: 'The king was amazed at all this wealth.'
     },
     {
       name: '10',
-      img: 'I don´t want to get up.'
+      img: 'Till slut nådde de fram till trollkarlens slott. '
     },
     {
       name: '10',
-      img: 'Nechcem vstávať.'
+      img: "Finally they reached the wizard's castle. "
     },
     {
       name: '11',
-      img: 'You put your trainers on and you´re ready to go.'
+      img: 'Katten stod uppe på trappan och väntade på dem. '
     },
     {
       name: '11',
-      img: 'Obuješ si tenisky a môžeš ísť.'
+      img: 'The cat was standing on the stairs waiting for them.'
     },
     {
       name: '12',
-      img: 'The whole family is going to the country today.'
+      img: 'När vagnen stannade, sprang han fram, öppnade dörren och hälsade dem med:'
     },
     {
       name: '12',
-      img: 'Celá rodina ide dnes na vidiek.'
+      img: 'When the carriage stopped, he ran forward, opened the door and greeted them with:'
     }
   ]
 

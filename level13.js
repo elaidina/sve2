@@ -11,91 +11,91 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Switch off the light.'
+      img: 'Min herre, greven, badade här i sjön, och just då kom en tjuv och stal hans kläder. '
     },
     {
       name: '2',
-      img: 'Zhasnite svetlo.'
+      img: 'My lord, the count, was bathing here in the lake, and just then a thief came and stole his clothes.'
     },
     {
       name: '3',
-      img: 'Where do you play with your friends?'
+      img: 'Nu måste greven stanna i vattnet och kan inte stiga upp.'
     },
     {
       name: '3',
-      img: 'Kde sa hráš so svojimi kamarátmi?'
+      img: ' Now the count must stay in the water and cannot rise.'
     },
     {
       name: '4',
-      img: 'When do you come home from work?'
+      img: 'Då lät kungen genast hämta de allra finaste kläder. '
     },
     {
       name: '4',
-      img: 'Kedy prídeš z práce?'
+      img: 'Then the king immediately had the finest clothes brought.'
     },
     {
       name: '5',
-      img: 'Hold the screw-driver.'
+      img: 'Mjölnarsonen drog på sig dem och måste sedan sätta sig upp hos kungen i vagnen.'
     },
     {
       name: '5',
-      img: 'Držte skrutkovač.'
+      img: 'Mjölnarsonen put them on and then has to sit up with the king in the carriage. .'
     },
     {
       name: '6',
-      img: 'I watch a bedtime story every evening.'
+      img: 'Prinsessan blev glad, för hon tyckte om den unge greven.'
     },
     {
       name: '6',
-      img: 'Každý večer pozerám rozprávku na dobrú noc.'
+      img: 'The princess was happy, because she liked the young count.'
     },
     {
       name: '7',
-      img: 'Can you guess what I am?'
+      img: 'Under tiden hade katten sprungit i förväg. Han kom fram till en stor äng. '
     },
     {
       name: '7',
-      img: 'Uhádneš, čo som?'
+      img: 'Meanwhile, the cat had run ahead. He came to a large meadow. '
     },
     {
       name: '8',
-      img: 'Do you plant flowers and trees?'
+      img: 'Där höll folk just på att räfsa hö. '
     },
     {
       name: '8',
-      img: 'Sadíš kvety a stromy?'
+      img: 'People were just raking hay there. '
     },
     {
       name: '9',
-      img: 'Yes, I am a gardener.'
+      img: 'De berättade, att ängen tillhörde den store trollkarlen.'
     },
     {
       name: '9',
-      img: 'Áno, som záhradník.'
+      img: 'They told that the meadow belonged to the great sorcerer.'
     },
     {
       name: '10',
-      img: 'Guess what I am thinking of.'
+      img: 'Då befallde katten dem:'
     },
     {
       name: '10',
-      img: 'Hádaj, na čo myslím.'
+      img: 'Then the cat ordered them:'
     },
     {
       name: '11',
-      img: 'Is it a boy, a girl, an animal or a thing?'
+      img: 'När kungen nu strax kör förbi här och frågar vem som äger ängen, så svara: '
     },
     {
       name: '11',
-      img: 'Je to chlapec, dievča, zviera alebo vec?'
+      img: ' When the king drives by here and asks who owns the meadow, answer: '
     },
     {
       name: '12',
-      img: 'Does it hang on the wall?'
+      img: 'greven! Gör ni inte det, så blir det synd  om er!'
     },
     {
       name: '12',
-      img: 'Visí to na stene?'
+      img: " the count! If you don't, it will be a pity for you!"
     }
   ]
 

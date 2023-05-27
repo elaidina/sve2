@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'They are looking forward to see their grandma.'
+      img: 'Min konung, välkommen till min herres slott. '
     },
     {
       name: '1',
-      img: 'Tešia sa, že uvidia svoju babičku.'
+      img: "My king, welcome to my master's castle." 
     },
     {
       name: '2',
-      img: 'Her village is not far from the town.'
+      img: 'Den ära som nu visas honom kommer att göra honom lycklig för resten av livet.'
     },
     {
       name: '2',
-      img: 'Jej dedina nie je ďaleko od mesta.'
+      img: 'The honor now shown to him will make him happy for the rest of his life.'
     },
     {
       name: '3',
-      img: 'We are coming along with them.'
+      img: 'Kungen steg ur och förvånades över den präktiga byggnaden, som nästan var större och vackrare än hans eget slott.'
     },
     {
       name: '3',
-      img: 'Jej dedina nie je ďaleko od mesta.'
+      img: 'The king got out and was amazed at the magnificent building, which was almost bigger and more beautiful than his own castle.'
     },
     {
       name: '4',
-      img: 'Can you wait for us?'
+      img: 'Men greven förde prinsessan in i en sal som glittrade och glimmade av guld och ädelstenar.'
     },
     {
       name: '4',
-      img: 'Môžeš na nás počkať?'
+      img: 'But the count led the princess into a hall that glittered and glittered with gold and precious stones. '
     },
     {
       name: '5',
-      img: 'I must ask everyone.'
+      img: 'Prinsessan gifte sig med greven, och när kungen dog, blev  mjölnarsonen kung. '
     },
     {
       name: '5',
-      img: 'Musím sa opýtať všetkých.'
+      img: "The princess married the count, and when the king died, the miller's son became king."
     },
     {
       name: '6',
-      img: 'We will be going through the town.'
+      img: ' Katten i stövlar utnämnde han till sin förnämste minister.'
     },
     {
       name: '6',
-      img: 'Pôjdeme cez mesto.'
+      img: 'He named Puss in Boots his chief minister.'
     },
     {
       name: '7',
-      img: 'We will be able to see lots of cars, shops and big houses.'
+      img: 'Det var så vackert ute på landet, det var sommar. '
     },
     {
       name: '7',
-      img: "Budeme môcť vidieť veľa áut, obchodov a veľkých domov."
+      img: "It was so beautiful out in the country, it was summer. "
     },
     {
       name: '8',
-      img: 'There are lots of people in the streets.'
+      img: 'Sädesfälten vajade i vinden. '
     },
     {
       name: '8',
-      img: 'V uliciach je veľa ľudí.'
+      img: 'The cornfields swayed in the wind.'
     },
     {
       name: '9',
-      img: 'Show me the way, please.'
+      img: 'Runt omkring åkrar och ängar låg stora skogar och mitt i skogarna låg djupa sjöar. '
     },
     {
       name: '9',
-      img: 'Ukáž mi cestu, prosím.'
+      img: 'All around the fields and meadows were large forests and in the middle of the forests were deep lakes.  '
     },
     {
       name: '10',
-      img: "Go straight and then turn left."
+      img: "Mitt i solskenet låg ett gammalt slott med djupa kanaler runt omkring. "
     },
     {
       name: '10',
-      img: 'Choďte rovno a potom odbočte doľava.'
+      img: 'In the middle of the sunshine was an old castle with deep canals all around it. '
     },
     {
       name: '11',
-      img: "Turn right at the giant bridge."
+      img: "Från muren växte stora kardborrblad som var så höga att små barn kunde stå raka under de största. "
     },
     {
       name: '11',
-      img: 'Pri obrovskom moste odbočte doprava.'
+      img: 'From the wall grew large velcro leaves so tall that small children could stand straight under the largest ones.'
     },
     {
       name: '12',
-      img: 'There´s my favourite shop on the right and a church on the left.'
+      img: ' Här låg en anka och ruvade på sina ägg. '
     },
     {
       name: '12',
-      img: 'Napravo je môj obľúbený obchod a naľavo kostol.'
+      img: 'Here lay a duck incubating her eggs.'
     }
   ]
 

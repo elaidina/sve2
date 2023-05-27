@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'Does it move?'
+      img: 'Sedan skyndade katten vidare till ett stort sädesfält och en stor skog.'
     },
     {
       name: '1',
-      img: 'Hýbe sa?'
+      img: 'Then the cat hurried on to a large cornfield and a large forest. '
     },
     {
       name: '2',
-      img: 'How do you go to school?'
+      img: 'Han befallde folket, som arbetade där, att säga detsamma.'
     },
     {
       name: '2',
-      img: 'Ako chodíš do školy?'
+      img: 'He commanded the people who worked there to say the same. '
     },
     {
       name: '3',
-      img: 'On foot, by bus, by tram or by car?'
+      img: ' Och eftersom han såg så märklig ut, blev folket lite rädda för honom.'
     },
     {
       name: '3',
-      img: 'Pešo, autobusom, električkou alebo autom?'
+      img: ' And because he looked so strange, the people became a little afraid of him.'
     },
     {
       name: '4',
-      img: 'We´re going to make a salad in the kitchen.'
+      img: 'Till slut kom katten fram till trollkarlens slott. '
     },
     {
       name: '4',
-      img: 'Urobíme šalát v kuchyni.'
+      img: "Finally the cat arrived at the wizard's castle. "
     },
     {
       name: '5',
-      img: 'We need a knife, a spoon, a bowl, carrots, one cucumber, a cabbage, peas, some sugar and lemon juice.'
+      img: 'Han bugade sig för denne och sa:'
     },
     {
       name: '5',
-      img: 'Potrebujeme nôž, lyžicu, misku, mrkvu, jednu uhorku, kapustu, hrášok, trochu cukru a citrónovú šťavu.'
+      img: 'He bowed to him and said:'
     },
     {
       name: '6',
-      img: 'First, we cut the vegetables.'
+      img: 'Jag har hört, att du kan förvandla dig till vilket djur som helst.'
     },
     {
       name: '6',
-      img: 'Najskôr si nakrájame zeleninu.'
+      img: 'I have heard that you can transform yourself into any animal.'
     },
     {
       name: '7',
-      img: 'Then we mix all the ingredients together.'
+      img: 'Men skulle du verkligen kunna förvandla dig till ett  så stort djur som en elefant?'
     },
     {
       name: '7',
-      img: 'Potom všetky ingrediencie spolu zmiešame.'
+      img: 'But could you really transform into an animal as big as an elephant?'
     },
     {
       name: '8',
-      img: 'Finally, we put everything on plates.'
+      img: 'Jo, det vill jag mena, sa trollkarlen.'
     },
     {
       name: '8',
-      img: 'Nakoniec dáme všetko na taniere.'
+      img: "Well, that's what I mean, said the wizard." 
     },
     {
       name: '9',
-      img: 'The salad is very tasty.'
+      img: 'Och genast stod en elefant framför katten.'
     },
     {
       name: '9',
-      img: 'Šalát je veľmi chutný.'
+      img: 'And immediately an elephant stood in front of the cat.'
     },
     {
       name: '10',
-      img: 'My room is in a mess.'
+      img: ' Otroligt! utropade denne.'
     },
     {
       name: '10',
-      img: 'V mojej izbe je neporiadok.'
+      img: 'Unbelievable! he exclaimed.'
     },
     {
       name: '11',
-      img: 'There are clothes everywhere.'
+      img: 'Du är bestämt den störste trollkarlen i hela världen. '
     },
     {
       name: '11',
-      img: 'Všade je oblečenie.'
+      img: 'You are definitely the greatest wizard in the whole world.'
     },
     {
       name: '12',
-      img: 'All my books and toys are on the floor.'
+      img: 'Men jag kan slå vad om, att du inte kan förvandla dig till ett så litet djur som en mus.'
     },
     {
       name: '12',
-      img: 'Všetky moje knihy a hračky sú na podlahe.'
+      img: "But I bet you can't turn into an animal as small as a mouse."
     }
   ]
 

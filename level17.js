@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'We are approaching the forest.'
+      img: 'Hon skulle ju ligga på äggen tills ungarna kom ut men nu hade hon tröttnat efter att ha legat så länge utan att få besök. '
     },
     {
       name: '1',
-      img: 'Blížime sa k lesu.'
+      img: 'She was supposed to lie on the eggs until the chicks came out, but now she was tired after lying for so long without visitors.'
     },
     {
       name: '2',
-      img: 'We can´t go by car into the forest.'
+      img: 'De andra ankorna tyckte mera om att simma omkring i kanalerna än att springa upp och tjattra med henne.'
     },
     {
       name: '2',
-      img: 'Nemôžeme ísť autom do lesa.'
+      img: 'The other ducks liked swimming around in the canals more than running up and chatting with her.'
     },
     {
       name: '3',
-      img: 'I like it here very much.'
+      img: 'Äntligen knakade det i det ena ägget efter det andra : '
     },
     {
       name: '3',
-      img: 'Veľmi sa mi tu páči.'
+      img: 'Finally, one egg after another cracked:'
     },
     {
       name: '4',
-      img: 'We can play in the meadow.'
+      img: 'Pip! pip! sade det.'
     },
     {
       name: '4',
-      img: 'Môžeme sa hrať na lúke.'
+      img: 'Beep! beep! said it.'
     },
     {
       name: '5',
-      img: 'Look, there´s a butterfly on that flower.'
+      img: 'Alla äggulorna hade blivit levande och stack ut huvudet.'
     },
     {
       name: '5',
-      img: 'Pozri, na tom kvete je motýľ.'
+      img: 'All the yolks had come alive and were sticking their heads out.'
     },
     {
       name: '6',
-      img: 'Would you like to pick mushrooms and strawberries?'
+      img: 'Kvack! kvack! '
     },
     {
       name: '6',
-      img: 'Chceli by ste zbierať huby a jahody?'
+      img: 'Quack! quack! '
     },
     {
       name: '7',
-      img: 'My friend lives in a house near the river.'
+      img: 'sade hon och så kvackade de allt vad de kunde och tittade åt alla sidor under de gröna bladen ...'
     },
     {
       name: '7',
-      img: 'Môj priateľ žije v dome blízko rieky.'
+      img: 'said she, and so they quacked all they could and looked in every direction under the green leaves, ...'
     },
     {
       name: '8',
-      img: "He plays with his dog every day."
+      img: "...och modern lät dem titta så mycket de ville, för grönt är bra för ögonen."
     },
     {
       name: '8',
-      img: 'Každý deň sa hrá so svojím psom.'
+      img: '...and the mother let them look as much as they liked, for green is good for the eyes.'
     },
     {
       name: '9',
-      img: 'Do you sometimes watch horses and cows in the meadow?'
+      img: 'Vad stor världen är! sade alla ungarna för de hade nu mycket bättre svängrum än då de låg inuti ägget.'
     },
     {
       name: '9',
-      img: 'Pozoruješ niekedy na lúke kone a kravy?'
+      img: 'How big the world is! said all the cubs because they now had much more room to maneuver than when they were inside the egg.'
     },
     {
       name: '10',
-      img: 'I´m afraid of that big dog.'
+      img: 'Tror ni att det här är hela världen?'
     },
     {
       name: '10',
-      img: 'Bojím sa toho veľkého psa.'
+      img: ' Do you think this is the whole world?'
     },
     {
       name: '11',
-      img: 'I want to show you something.'
+      img: 'sade modern. '
     },
     {
       name: '11',
-      img: 'Chcem ti niečo ukázať.'
+      img: 'said the mother.'
     },
     {
       name: '12',
-      img: 'Do you want to see out pig and piglets?'
+      img: ' Den sträcker sig långt på andra sidan trädgården, ända in på prästens ägor,  men där har jag aldrig varit.'
     },
     {
       name: '12',
-      img: 'Chceš vidieť prasa a prasiatka?'
+      img: "It stretches far on the other side of the garden, right into the priest's property, but I have never been there."
     }
   ]
 

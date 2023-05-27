@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'They are very dirty and fat but also funny.'
+      img: 'Är ni här allesammans? '
     },
     {
       name: '1',
-      img: 'Sú veľmi špinaví a tuční, ale aj zábavní.'
+      img: ' Are you all here?'
     },
     {
       name: '2',
-      img: 'They like playing in the mud.'
+      img: 'Och så reste hon på sig. '
     },
     {
       name: '2',
-      img: 'Radi sa hrajú v blate.'
+      img: 'And then she got up. '
     },
     {
       name: '3',
-      img: 'The children like playing in the yard.'
+      img: 'Nej, jag har inte alla!'
     },
     {
       name: '3',
-      img: 'Deti sa rady hrajú na dvore.'
+      img: "No, I don't have them all! "
     },
     {
       name: '4',
-      img: 'They are looking forward to making a hut.'
+      img: 'Det största ägget ligger där ännu. '
     },
     {
       name: '4',
-      img: 'Tešia sa, že si postavia chatku.'
+      img: 'The biggest egg is still there. '
     },
     {
       name: '5',
-      img: 'They need a hammer, nails and planks.'
+      img: 'Hur länge skall detta vara?'
     },
     {
       name: '5',
-      img: 'Potrebujú kladivo, klince a dosky.'
+      img: 'How long will this last?'
     },
     {
       name: '6',
-      img: 'I´d like to help them to hammer the planks.'
+      img: ' Nu är jag ju jättetrött! Och så lade hon sig igen.'
     },
     {
       name: '6',
-      img: 'Rád by som im pomohol pribiť dosky.'
+      img: "Now I'm really tired! And then she lay down again."
     },
     {
       name: '7',
-      img: 'Rather help us to hammer the nails.'
+      img: 'Nå, hur går det?'
     },
     {
       name: '7',
-      img: 'Skôr nám pomôžte zatĺcť klince.'
+      img: "Well, how's it going? "
     },
     {
       name: '8',
-      img: 'How do you like the finished hut?'
+      img: 'sade en gammal anka, som kom på besök.'
     },
     {
       name: '8',
-      img: 'Ako sa vám páči hotová chatka?'
+      img: 'said an old duck, who came to visit.'
     },
     {
       name: '9',
-      img: 'It´s the best hut ever.'
+      img: 'Det dröjer så länge med det ena ägget! sade ankan, som låg och ruvade. '
     },
     {
       name: '9',
-      img: 'Je to najlepšia chatka vôbec.'
+      img: ' takes so long with the one egg! said the duck, who was brooding.'
     },
     {
       name: '10',
-      img: 'It´s a lovely hot day.'
+      img: 'Det vill inte gå hål på det. '
     },
     {
       name: '10',
-      img: 'Je to najlepšia chata vôbec.'
+      img: "It doesn't want to go through it. "
     },
     {
       name: '11',
-      img: 'The children are at the riverside.'
+      img: 'Men titta på alla de andra, de är de vackraste ankungar jag någonsin sett.'
     },
     {
       name: '11',
-      img: 'Deti sú na brehu rieky.'
+      img: 'But look at all the others, they are the most beautiful ducklings I have ever seen.'
     },
     {
       name: '12',
-      img: 'There is a lot of sand everywhere.'
+      img: ' Låt mig se det där ägget, som inte vill brista! '
     },
     {
       name: '12',
-      img: 'Všade je veľa piesku.'
+      img: "Let me see that egg that won't break!"
     }
   ]
 
