@@ -3,27 +3,27 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'I don´t like helping my mum in the kitchen.'
+      img: 'Hon är den förnämaste av alla här.'
     },
     {
       name: '1',
-      img: 'Nerád pomáham mame v kuchyni.'
+      img: 'She is the most distinguished of all here.'
     },
     {
       name: '2',
-      img: 'I rather play in the playground.'
+      img: 'Hon är av spanskt blod därför är hon så tjock.'
     },
     {
       name: '2',
-      img: 'Radšej sa hrám na ihrisku.'
+      img: " She is of Spanish blood that's why she is so fat."
     },
     {
       name: '3',
-      img: 'I always set the table.'
+      img: 'Pass på!'
     },
     {
       name: '3',
-      img: 'Vždy prestieram stôl.'
+      img: 'Look out! '
     },
     {
       name: '4',

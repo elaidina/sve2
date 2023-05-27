@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: "There´s a bridge across the river."
+      img: "sade den gamla ankan."
     },
     {
       name: '1',
-      img: 'Cez rieku je most.'
+      img: ' said the old duck. '
     },
     {
       name: '2',
-      img: "It doesn´t matter."
+      img: "Du skall se att det är ett kalkonägg ! "
     },
     {
       name: '2',
-      img: 'Na tom nezáleží.'
+      img: 'You will see that it is a turkey egg!'
     },
     {
       name: '3',
-      img: 'We can drink water or orange juice.'
+      img: 'På det sättet blev jag också lurad en gång.'
     },
     {
       name: '3',
-      img: "Môžeme piť vodu alebo pomarančový džús."
+      img: " In that way, I was also cheated once."
     },
     {
       name: '4',
-      img: "You´re swimming like a dog."
+      img: "Får jag se på ägget!"
     },
     {
       name: '4',
-      img: 'Plávaš ako pes.'
+      img: 'Can I see the egg!'
     },
     {
       name: '5',
-      img: 'I´m swimming like a cat.'
+      img: 'Jo, det är ett kalkonägg!'
     },
     {
       name: '5',
-      img: 'Plávam ako mačka.'
+      img: "Yes, it's a turkey egg!"
     },
     {
       name: '6',
-      img: "Can you speak English?"
+      img: "Låt du det ligga och lär de andra barnen simma!"
     },
     {
       name: '6',
-      img: 'Vieš po anglicky?'
+      img: 'Leave it alone and teach the other children to swim!     '
     },
     {
       name: '7',
-      img: 'I am leaving on Monday.'
+      img: 'Jag vill ändå ligga litet längre på det, sade den ruvande ankan.'
     },
     {
       name: '7',
-      img: 'Odchádzam v pondelok.'
+      img: ' I still want to stay a little longer on it, said the brooding duck. '
     },
     {
       name: '8',
-      img: 'I am very sorry that I have to leave.'
+      img: 'Har jag nu legat så länge, så kan jag ligga den återstående tiden med.'
     },
     {
       name: '8',
-      img: 'Je mi veľmi ľúto, že musím odísť.'
+      img: "If I've been lying for that long, I can lie for the rest of the time."
     },
     {
       name: '9',
-      img: 'We would like to say good-bye to you.'
+      img: 'Var så god! '
     },
     {
       name: '9',
-      img: 'Radi by sme sa s tebou rozlúčili.'
+      img: 'You are welcome! '
     },
     {
       name: '10',
-      img: 'It´s a pitty, that you are leaving.'
+      img: 'sade den gamla ankan och så gick hon.'
     },
     {
       name: '10',
-      img: 'Škoda, že odchádzaš.'
+      img: 'said the old duck, and off she went.'
     },
     {
       name: '11',
-      img: 'Take care and good luck.'
+      img: 'Äntligen brast det stora ägget. '
     },
     {
       name: '11',
-      img: 'Opatrujte sa a veľa šťastia.'
+      img: 'Finally the big egg cracked. '
     },
     {
       name: '12',
-      img: 'I enjoy a lot of snow in January.'
+      img: 'Pip! pip! sade ungen och ramlade ut.'
     },
     {
       name: '12',
-      img: 'V januári si užívam veľa snehu.'
+      img: ' Beep! beep! said the kid, falling out. '
     }
   ]
 

@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'I would like to pick som flowers for my mum.'
+      img: 'Han var så stor och ful.'
     },
     {
       name: '1',
-      img: 'Chcel by som natrhať nejaké kvety pre moju mamu.'
+      img: 'He was so big and ugly. '
     },
     {
       name: '2',
-      img: 'The apples are ripe and round.'
+      img: 'Ankan såg på honom.'
     },
     {
       name: '2',
-      img: 'Jablká sú zrelé a okrúhle.'
+      img: 'The duck looked at him.'
     },
     {
       name: '3',
-      img: 'I found a lot of presents under the Christmas tree.'
+      img: 'Det var då en förskräckligt stor ankunge den där! sade hon. '
     },
     {
       name: '3', 
-      img: 'Našiel som pod vianočným stromčekom veľa darčekov.'
+      img: 'That was a terribly big duckling there! she said.'
     },
     {
       name: '4',
-      img: 'I don ´t like ironing.'
+      img: 'Ingen av de andra ser ut så. '
     },
     {
       name: '4',
-      img: 'Nemám rád žehlenie.'
+      img: 'None of the others look like that.'
     },
     {
       name: '5',
-      img: 'I am too busy today.'
+      img: 'Det är väl aldrig en kalkonunge !'
     },
     {
       name: '5',
-      img: 'Dnes som príliš zaneprázdnený.'
+      img: "It's never a baby turkey!"
     },
     {
       name: '6',
-      img: 'Look around you.'
+      img: 'Nå ja, det kommer vi snart underfund med.'
     },
     {
       name: '6',
-      img: 'Pozri sa okolo seba.'
+      img: "Well, we'll figure that out soon."
     },
     {
       name: '7',
-      img: 'How many interesting things can you see?'
+      img: 'I vattnet skall han, om jag så måste sparka ut honom.'
     },
     {
       name: '7',
-      img: 'Koľko zaujímavých vecí môžete vidieť?'
+      img: 'In the water he shall, if I have to kick him out.'
     },
     {
       name: '8',
-      img: 'I know lots of people, animals, houses, trees and flowers.'
+      img: 'Nästa dag var det ett härligt väder.'
     },
     {
       name: '8',
-      img: 'Poznám veľa ľudí, zvierat, domov, stromov a kvetov.'
+      img: 'The next day the weather was beautiful. '
     },
     {
       name: '9',
-      img: 'But do you know everything?'
+      img: 'Solen sken på alla de gröna kardborrarna.'
     },
     {
       name: '9',
-      img: 'Ale vieš všetko?'
+      img: 'The sun shone on all the green burdocks.'
     },
     {
       name: '10',
-      img: 'Nobody knows everything.'
+      img: 'Ankmodern med hela sin familj gick ner till kanalen.'
     },
     {
       name: '10',
-      img: 'Nikto nevie všetko.'
+      img: 'The mother duck with her whole family went down to the canal.'
     },
     {
       name: '11',
-      img: 'Some adults know a lot of songs for children.'
+      img: 'Plask! Hon sprang ut i vattnet. '
     },
     {
       name: '11',
-      img: 'Niektorí dospelí poznajú veľa pesničiek pre deti.'
+      img: 'Splash! She ran into the water.'
     },
     {
       name: '12',
-      img: 'Some people cannot repair cars.'
+      img: 'Kvack! kvack! sade hon och den ena ankungen efter den andra plumsade ut i vattnet efter henne.'
     },
     {
       name: '12',
-      img: "Niektorí ľudia nevedia opraviť autá."
+      img: "Quack! quack! she said, and one duckling after another plunged into the water after her. "
     }
   ]
 

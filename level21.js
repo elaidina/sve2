@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'We learn because we want to know the world around us.'
+      img: 'Vattnet gick över huvudet på dem men de kom snabbt upp igen och flöt så vackert.'
     },
     {
       name: '1',
-      img: 'Učíme sa, pretože chceme spoznávať svet okolo nás.'
+      img: 'The water went over their heads but they quickly came back up and floated so beautifully. '
     },
     {
       name: '2',
-      img: 'We also want to know how to make things.'
+      img: 'Benen gick av sig själva.'
     },
     {
       name: '2',
-      img: 'Tiež chceme vedieť, ako veci vyrábať.'
+      img: 'The legs went off by themselves.'
     },
     {
       name: '3',
-      img: 'My friend has got a little brother.'
+      img: 'Alla var ute, den fula, grå ungen simmade med.'
     },
     {
       name: '3',
-      img: 'Môj priateľ má malého brata.'
+      img: 'Everyone was out, the ugly, gray kid was swimming along.'
     },
     {
       name: '4',
-      img: 'He wants to know everything.'
+      img: 'Nej, det är inte någon kalkon! sade hon.'
     },
     {
       name: '4',
-      img: 'Chce vedieť všetko.'
+      img: "No, it's not a turkey! she said. "
     },
     {
       name: '5',
-      img: 'He always asks questions.'
+      img: 'Se bara, hur vackert han använder benen och hur rak han håller sig! '
     },
     {
       name: '5',
-      img: 'Vždy kladie otázky.'
+      img: ' Just look how beautifully he uses his legs and how straight he stands! '
     },
     {
       name: '6',
-      img: 'Do people live on the Moon?'
+      img: ' Det är min egen unge.'
     },
     {
       name: '6',
-      img: 'Žijú ľudia na Mesiaci?'
+      img:  "It's my own kid. "
     },
     {
       name: '7',
-      img: 'Why do people work?'
+      img: 'I själva verket är han ändå ganska vacker, när man riktigt betraktar honom. '
     },
     {
       name: '7',
-      img: 'Prečo ľudia pracujú?'
+      img: 'In fact, he is still quite handsome, when you really look at him. '
     },
     {
       name: '8',
-      img: 'Do flowers eat and drink?'
+      img: 'Kvack! Kvack! kom nu med, så skall jag föra er ut i världen och presentera er i ankgården.'
     },
     {
       name: '8',
-      img: 'Jedia a pijú kvety?'
+      img: ' Quack! Quack! now come along, and I will take you out into the world and introduce you to the duck farm.'
     },
     {
       name: '9',
-      img: 'I go to my father and ask him.'
+      img: 'Så kom de in i ankgården.'
     },
     {
       name: '9',
-      img: 'Idem za otcom a pýtam sa ho.'
+      img: 'Then they entered the duck yard. '
     },
     {
       name: '10',
-      img: 'He knows a lot.'
+      img: 'Det var ett förskräckligt väsen där inne eftersom det var två familjer, som slogs om ett ålhuvud.'
     },
     {
       name: '10',
-      img: 'On vie veľa vecí.'
+      img: ' There was a terrible commotion in there because there were two families fighting over an eel head.'
     },
     {
       name: '11',
-      img: 'I live in a block of flats.'
+      img: 'Se, så går det till i världen! sade ankmodern och slickade sig om näbben. '
     },
     {
       name: '11',
-      img: 'Bývam v paneláku.'
+      img: "See, that's how the world works! said the mother duck, licking her beak."
     },
     {
       name: '12',
-      img: 'There´s no chimney on our house.'
+      img: 'Se till att sköta er och nig med halsen för den gamla ankan där borta! '
     },
     {
       name: '12',
-      img: 'Na našom dome nie je komín.'
+      img: 'Be sure to watch yourselves and your necks for that old duck over there! '
     }
   ]
 
