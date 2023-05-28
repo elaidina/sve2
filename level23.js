@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'I like summer because Dad buys me lots of ice-cream.'
+      img: ' Låt honom vara! sade modern. '
     },
     {
       name: '1',
-      img: 'Mám rád leto, pretože otec mi kupuje veľa zmrzliny.'
+      img: 'Let him be! said the mother. '
     },
     {
       name: '2',
-      img: 'The forest is very colourful in autumn.'
+      img: 'Han gör ju ingen något ont!'
     },
     {
       name: '2',
-      img: 'Les je na jeseň veľmi farebný.'
+      img: "He doesn't hurt anyone!"
     },
     {
       name: '3',
-      img: 'The fields, hills, houses and trees are covered with snow in winter.'
+      img: 'Ja, men han är för stor och ovanlig, sade ankan, som hade bitit honom och därför skall han näpsas.'
     },
     {
       name: '3',
-      img: 'Polia, kopce, domy a stromy sú v zime pokryté snehom.'
+      img: 'Yes, but he is too big and unusual, said the duck, which had bitten him, and therefore he must be pecked.'
     },
     {
       name: '4',
-      img: 'We make a snowman with my friends.'
+      img: 'Det är vackra barn mor har, sade den gamla ankan.'
     },
     {
       name: '4',
-      img: 'Vyrábame snehuliaka s mojimi priateľmi.'
+      img: 'Mother has beautiful children, said the old duck. '
     },
     {
       name: '5',
-      img: 'My aunt feeds her hens and ducks with corn and wheat.'
+      img: 'Alla är vackra, så när som på den där ena.'
     },
     {
       name: '5',
-      img: 'Moja teta kŕmi svoje sliepky a kačice kukuricou a pšenicou.'
+      img: 'All are beautiful, so when on that one. '
     },
     {
       name: '6',
-      img: 'She pours some milk into a bowl.'
+      img: 'Den har inte lyckats.'
     },
     {
       name: '6',
-      img: 'Naleje trochu mlieka do misky.'
+      img: 'It has not succeeded. '
     },
     {
       name: '7',
-      img: 'The little kittens are cute and funny.'
+      img: 'Jag skulle önska, att hon kunde göra om den.'
     },
     {
       name: '7',
-      img: 'Malé mačiatka sú roztomilé a zábavné.'
+      img: ' I wish she could redo it.'
     },
     {
       name: '8',
-      img: 'They always put their paws into the bowl and spill the milk.'
+      img: 'Det går inte för sig, ers nåd! sade ankmodern.'
     },
     {
       name: '8',
-      img: 'Vždy vložia labky do misky a rozlejú mlieko.'
+      img: "It doesn't work, your grace! said the mother duck. "
     },
     {
       name: '9',
-      img: 'My uncle is very handy.'
+      img: 'Han är inte vacker, men han är en innerligt god varelse...'
     },
     {
       name: '9',
-      img: 'Môj strýko je veľmi šikovný.'
+      img: 'He is not handsome, but he is a heartily good creature,...'
     },
     {
       name: '10',
-      img: 'He plants vegetables and flowers.'
+      img: '...och simmar lika vackert som någon av de andra, ja, till och med litet bättre. '
     },
     {
       name: '10',
-      img: 'Pestuje zeleninu a kvety.'
+      img: '...and swims as beautifully as any of the others, yea, even a little better. '
     },
     {
       name: '11',
-      img: 'Grandma makes very good jam and stewed fruits.'
+      img: 'Han har legat för länge i ägget. '
     },
     {
       name: '11',
-      img: 'Babka robí veľmi dobrý džem a kompóty.'
+      img: "He's been in the egg too long. "
     },
     {
       name: '12',
-      img: 'I help grandpa pick apples, pears, grapes and plums.'
+      img: 'Därför har han inte fått den rätta formen. '
     },
     {
       name: '12',
-      img: 'Pomáham dedkovi zbierať jablká, hrušky, hrozno a slivky.'
+      img: 'Therefore, he has not been given the right form.'
     }
   ]
 

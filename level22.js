@@ -27,75 +27,75 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'The living-room is the largest room in our flat.'
+      img: ' Inte i hop med benen!'
     },
     {
       name: '4',
-      img: 'Obývačka je najväčšia miestnosť v našom byte.'
+      img: 'Not messing with the legs! '
     },
     {
       name: '5',
-      img: 'My dad works on his computer here.'
+      img: 'En väluppfostrad ankunge sätter ut benen långt ifrån varandra, liksom far och mor.'
     },
     {
       name: '5',
-      img: 'Môj otec tu pracuje na svojom počítači.'
+      img: 'A well-behaved duckling puts its legs far apart, like father and mother.'
     },
     {
       name: '6',
-      img: 'I prefer playing games on the computer.'
+      img: 'Se så, nig nu och säg kvack!'
     },
     {
       name: '6',
-      img: 'Radšej hrám hry na počítači.'
+      img: 'Look, you now and say quack!'
     },
     {
       name: '7',
-      img: 'Little children play in the sand-pit.'
+      img: 'Och det gjorde de, men de andra ankorna runt omkring såg på dem och sade helt högt: '
     },
     {
       name: '7',
-      img: 'Malé deti sa hrajú na pieskovisku.'
+      img: 'And they did, but the other ducks around looked at them and said out loud: '
     },
     {
       name: '8',
-      img: 'Put on your clean trousers.'
+      img: 'Se! Nu skall vi få det där följet också! '
     },
     {
       name: '8',
-      img: 'Daj si čisté nohavice.'
+      img: 'Look! Now we will get that companion too! '
     },
     {
       name: '9',
-      img: 'In spring the country is lovely.'
+      img: 'Precis som om vi inte redan var tillräckligt många! '
     },
     {
       name: '9',
-      img: 'Na jar je krajina nádherná.'
+      img: "Just as if there weren't enough of us already! "
     },
     {
       name: '10',
-      img: 'Trees, meadows and gardens are full of flowers.'
+      img: 'Och fy, så den där ena ungen ser ut! '
     },
     {
       name: '10',
-      img: 'Stromy, lúky a záhrady sú plné kvetov.'
+      img: 'And wow, what does that one kid look like! '
     },
     {
       name: '11',
-      img: 'We go to the lake which isn´t far from our town.'
+      img: 'Honom kan vi ju inte tåla.'
     },
     {
       name: '11',
-      img: 'Ideme k jazeru, ktoré nie je ďaleko od nášho mesta.'
+      img: "We can't stand him."
     },
     {
       name: '12',
-      img: 'We play with sand and swim there.'
+      img: ' Och strax flög en anka fram och bet honom i nacken.'
     },
     {
       name: '12',
-      img: 'Hráme sa s pieskom a plávame tam.'
+      img: ' And immediately a duck flew forward and bit him on the neck.'
     }
   ]
 

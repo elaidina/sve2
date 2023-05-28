@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'He says that I put more fruit in my tummy than in the basket.'
+      img: 'Och så plockade hon honom i nacken och hyfsade till honom.'
     },
     {
       name: '1',
-      img: 'Hovorí, že dávam viac ovocia do bruška ako do košíka.'
+      img: 'And then she picked him by the neck and treated him well.'
     },
     {
       name: '2',
-      img: 'In winter Grandpa makes a bird-house and hangs it in the tree.'
+      img: 'De andra ungarna är söta, sade den gamla ankan.'
     },
     {
       name: '2',
-      img: 'V zime dedko urobí búdku pre vtáky a zavesí ju na strom.'
+      img: 'The other kids are cute, said the old duck. '
     },
     {
       name: '3',
-      img: 'He puts some food there, so that the birds are not hungry in the cold winter.'
+      img: 'Känn er nu som hemma här och om ni hittar ett ålhuvud så kan ni ge det till mig.'
     },
     {
       name: '3',
-      img: 'Dáva tam nejaké jedlo, aby vtáky neboli hladné v chladnej zime.'
+      img: 'Now feel at home here and if you find an eel head, you can give it to me.'
     },
     {
       name: '4',
-      img: 'We must protect them bacause they help us.'
+      img: 'Den stackars ankungen, som kommit sist ur ägget och var så ful, blev biten, knuffad och hånad av både ankor och höns.'
     },
     {
       name: '4',
-      img: 'Musíme ich chrániť, pretože nám pomáhajú.'
+      img: 'The poor duckling, who was the last to hatch and was so ugly, was bitten, pushed and mocked by both ducks and hens.'
     },
     {
       name: '5',
-      img: 'They eat insects.'
+      img: 'Han är för stor, sade de allesammans och kalkontuppen, som var född med sporrar...'
     },
     {
       name: '5',
-      img: 'Jedia hmyz.'
+      img: "He's too big, they all said, and the turkey cock, who was born with spurs..."
     },
     {
       name: '6',
-      img: 'Some insects can damage the plants.'
+      img: '...och därför trodde sig vara kejsare, blåste upp sig som ett skepp för fulla segel, gick rakt in på honom och så kluckade han och blev helt röd i huvudet.'
     },
     {
       name: '6',
-      img: 'Niektorý hmyz môže poškodiť rastliny.'
+      img: '...and therefore thought he was emperor, puffed up like a ship full sails, went right at him, and then he clucked and turned all red in the head.'
     },
     {
       name: '7',
-      img: 'Why don´t we have ice-cream for breakfast?'
+      img: 'Den stackars ankungen visste varken hur han skulle stå eller gå. '
     },
     {
       name: '7',
-      img: 'Prečo si nedáme na raňajky zmrzlinu?'
+      img: "The poor duckling didn't know how to stand or walk. "
     },
     {
       name: '8',
-      img: 'It´s snowing and cold wind is blowing.'
+      img: 'Han var så ledsen för att han var så ful och ett åtlöje för hela ankgården.'
     },
     {
       name: '8',
-      img: 'Sneží a fúka studený vietor.'
+      img: 'He was so sorry for being so ugly and a laughingstock to the whole duck farm.'
     },
     {
       name: '9',
-      img: 'The tea is too bitter.'
+      img: 'Så gick det den första dagen och sedan blev det allt värre och värre.'
     },
     {
       name: '9',
-      img: 'Čaj je príliš horký.'
+      img: "That's how it went the first day and then it got worse and worse. "
     },
     {
       name: '10',
-      img: 'Lemon juice makes it more sour.'
+      img: 'Den stackars ankungen blev jagad av dem allihop. '
     },
     {
       name: '10',
-      img: 'Citrónová šťava to robí kyslejším.'
+      img: 'The poor duckling was chased by them all.'
     },
     {
       name: '11',
-      img: 'I eat my breakfast up and go out.'
+      img: 'Till och med hans syskon var elaka mot honom och de sade hela tiden :'
     },
     {
       name: '11',
-      img: 'Zjem raňajky a idem von.'
+      img: 'Even his siblings were mean to him and they kept saying: '
     },
     {
       name: '12',
-      img: 'The ice is slippery.'
+      img: 'Om katten ändå ville ta dig, ditt otäcka spektakel!'
     },
     {
       name: '12',
-      img: 'Ľad je šmykľavý.'
+      img: 'If the cat still wanted to take you, you nasty spectacle! '
     }
   ]
 
