@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'Don´t fall.'
+      img: 'Och modern sa: '
     },
     {
       name: '1',
-      img: 'Nespadni.'
+      img: 'And the mother said: '
     },
     {
       name: '2',
-      img: 'Walk slowly.'
+      img: ' Om du ändå vore långt härifrån! '
     },
     {
       name: '2',
-      img: 'Kráčaj pomaly.'
+      img: 'If only you were far from here!'
     },
     {
       name: '3',
-      img: 'My friends are making a snowman.'
+      img: 'Ankorna bet honom, hönsen hackade honom och pigan, som skulle ge djuren mat, sparkade till honom med foten.'
     },
     {
       name: '3',
-      img: 'Moji priatelia robia snehuliaka.'
+      img: 'The ducks bit him, the chickens pecked at him, and the maid who was supposed to feed the animals kicked him with her foot.'
     },
     {
       name: '4',
-      img: 'My birthday is in winter.'
+      img: 'Då sprang och flög han över staketet.'
     },
     {
       name: '4',
-      img: 'Narodeniny mám v zime.'
+      img: 'Then he ran and flew over the fence.'
     },
     {
       name: '5',
-      img: 'People have their birthday only once a year.'
+      img: ' De små fåglarna i buskarna for förskräckta upp i luften.'
     },
     {
       name: '5',
-      img: 'udia majú narodeniny len raz za rok.'
+      img: 'The little birds in the bushes flew into the air in terror.'
     },
     {
       name: '6',
-      img: 'It´s pitty.'
+      img: ' Det är för att jag är så ful, tänkte ankungen och slöt till ögonen, men sprang ändå framåt. '
     },
     {
       name: '6',
-      img: 'Je to škoda.'
+      img: " It's because I'm so ugly, thought the duckling, closing his eyes, but still running forward. "
     },
     {
       name: '7',
-      img: 'My daughter was born on Thursday.'
+      img: 'Så kom han ut till den stora mossen, där änderna bodde. '
     },
     {
       name: '7',
-      img: 'Moja dcéra sa mi narodila vo štvrtok.'
+      img: 'Then he came out to the big bog, where the ducks lived.'
     },
     {
       name: '8',
-      img: 'Nobody knows why the cat is so fat.'
+      img: 'Här låg han hela natten, han var så trött och sorgsen.      '
     },
     {
       name: '8',
-      img: 'Nikto nevie, prečo je tá mačka taká tučná.'
+      img: 'Here he lay all night, he was so tired and sad.'
     },
     {
       name: '9',
-      img: 'The little girl can button the sweater but she can not zip the jacket up.'
+      img: 'Om morgonen flög änderna upp och de såg på den nya kamraten.'
     },
     {
       name: '9',
-      img: 'To malé dievčatko si vie zapnúť gombíky na svetri, ale nevie si zapnúť zips. '
+      img: 'In the morning the ducks flew up and they looked at the new companion.  '
     },
     {
       name: '10',
-      img: 'She likes playing with water in the bathroom.'
+      img: 'Vad är du för en?'
     },
     {
       name: '10',
-      img: 'Rada sa hrá s vodou v kúpeľni.'
+      img: 'What kind of one are you?'
     },
     {
       name: '11',
-      img: 'She washes her socks, shirt and pyjamas.'
+      img: 'frågade de och ankungen vände sig åt alla sidor och hälsade så gott han kunde.'
     },
     {
       name: '11',
-      img: 'Operie si ponožky, košeľu a pyžamo.'
+      img: 'they asked, and the duckling turned in all directions and saluted as best he could.'
     },
     {
       name: '12',
-      img: 'There´s a lot of water everywhere.'
+      img: 'Du är innerligt ful! sade änderna, men det kan då göra oss det samma, bara du inte gifter dig in i vår familj.'
     },
     {
       name: '12',
-      img: 'Všade je veľa vody.'
+      img: "You are deeply ugly! said the ducks, but it might do the same to us, as long as you don't marry into our family."
     }
   ]
 

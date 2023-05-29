@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'The floor and the walls are wet.'
+      img: 'Den stackarn!'
     },
     {
       name: '1',
-      img: 'Podlaha a steny sú mokré.'
+      img: ' The poor thing!'
     },
     {
       name: '2',
-      img: 'She never obeys.'
+      img: 'han tänkte visst inte på att gifta sig, bara han fick lov att ligga i vassen och dricka litet vatten.'
     },
     {
       name: '2',
-      img: 'Nikdy neposlúcha.'
+      img: "he certainly didn't think of getting married, only he was allowed to lie in the reeds and drink a little water."
     },
     {
       name: '3',
-      img: 'Grandpa has to pull out a giant turnip.'
+      img: 'Han väntade flera timmar, innan han såg sig om och så skyndade han bort från mossen allt vad han kunde.'
     },
     {
       name: '3',
-      img: 'Dedko musí vytiahnuť obrovskú repu.'
+      img: 'He waited several hours before he looked around and then he hurried away from the marsh as fast as he could.'
     },
     {
       name: '4',
-      img: 'He pulls and pulls the turnip but he can´t pull it out.'
+      img: 'Han sprang över fält och äng och det var en sådan blåst, att han hade svårt att komma framåt. '
     },
     {
       name: '4',
-      img: 'Ťahá a ťahá repku, ale nemôže ju vytiahnuť.'
+      img: 'He ran across fields and meadows and there was such a wind that he had difficulty moving forward. '
     },
     {
       name: '5',
-      img: 'He must call his grandson.'
+      img: 'Fram mot kvällen kom han till en fattig liten bondstuga. '
     },
     {
       name: '5',
-      img: 'Musí zavolať svojho vnuka.'
+      img: "Towards evening he came to a poor little peasant's cottage. "
     },
     {
       name: '6',
-      img: 'They pull until the turnip comes out.'
+      img: 'Den var så eländig, att den inte själv visste åt vilken sida den skulle ramla så den blev stående. '
     },
     {
       name: '6',
-      img: 'Ťahajú, kým repka nevyjde.'
+      img: "It was so miserable that it didn't know which side it was going to fall on so it stayed standing."
     },
     {
       name: '7',
-      img: 'They all fall on the ground and laugh.'
+      img: 'Blåsten susade till den grad omkring ankungen, att han måste sätta sig på stjärten för att hålla mot och det blev allt värre och värre. '
     },
     {
       name: '7',
-      img: 'Všetci padajú na zem a smejú sa.'
+      img: 'The wind whizzed around the duckling to such an extent that he had to sit on his tail to hold on and it got worse and worse. '
     },
     {
       name: '8',
-      img: 'Why can´t animals speak?'
+      img: 'Nu märkte han, att dörrens ena gångjärn hade lossnat och dörren hängde så snett att han genom springan kunde smyga sig in i rummet och det gjorde han.'
     },
     {
       name: '8',
-      img: 'Prečo zvieratá nevedia hovoriť?'
+      img: "Now he noticed that one of the door's hinges had come loose and the door hung so crooked that he could sneak into the room through the gap, and he did."
     },
     {
       name: '9',
-      img: 'They can but we don´t understand them.'
+      img: 'Här bodde en gammal gumma med sin katt och sin höna. '
     },
     {
       name: '9',
-      img: 'Môžu, ale my im nerozumieme.'
+      img: 'Here lived an old woman with her cat and her hen.'
     },
     {
       name: '10',
-      img: 'That hen is telling stories to her chicks.'
+      img: 'Katten, som hon kallade Kisserulten, kunde skjuta rygg och spinna, han gnistrade till och med, ...'
     },
     {
       name: '10',
-      img: 'Tá sliepka rozpráva príbehy svojim kuriatkam.'
+      img: 'The cat, which she called Kisserulten, could arch his back and purr, he even sparkled,...'
     },
     {
       name: '11',
-      img: 'What is the story about?'
+      img: '...men då måste man stryka honom mot håren.'
     },
     {
       name: '11',
-      img: 'O čom je ten príbeh?'
+      img: '...but then you had to stroke his hair. '
     },
     {
       name: '12',
-      img: 'Tell me the story, please.'
+      img: 'Hönan hade mycket små, korta ben och kallades därför Kyckelikortben.'
     },
     {
       name: '12',
-      img: 'Povedz mi ten príbeh, prosím.'
+      img: 'The hen had very small, short legs and was therefore called Chicken Short Legs. '
     }
   ]
 

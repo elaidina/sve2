@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'Her little sister wanted to play too.'
+      img: 'Se nu bara till, att du lägger ägg och lär dig spinna eller gnistra!'
     },
     {
       name: '1',
-      img: 'Aj jej malá sestra sa chcela hrať.'
+      img: 'Now just make sure you lay eggs and learn to purr or sparkle!'
     },
     {
       name: '2',
-      img: 'She kicked the ball high in the air and Jamie ran after it.'
+      img: ' Jag tror, att jag vill gå ut i vida världen, sade ankungen.'
     },
     {
       name: '2',
-      img: 'Aj jej malá sestra sa chcela hrať.'
+      img: 'I think I want to go out into the wide world, said the duckling.'
     },
     {
       name: '3',
-      img: 'Mind the pond, please.'
+      img: 'Ja, gör det du! sade hönan.'
     },
     {
       name: '3',
-      img: 'Dávajte si pozor na rybník, prosím.'
+      img: 'Yes, you do! said the hen.'
     },
     {
       name: '4',
-      img: 'Unfortunatelly the ball rolled into a flower bed and we ran to find it.'
+      img: 'Och så gick ankungen. '
     },
     {
       name: '4',
-      img: 'Bohužiaľ sa lopta skotúľala do záhona a my sme ju bežali nájsť.'
+      img: 'And so the duckling went. '
     },
     {
       name: '5',
-      img: 'Something buzzed round my face.'
+      img: 'Han flöt på vattnet, han dök, men av alla djur sågs han över axeln för sin fulhet.'
     },
     {
       name: '5',
-      img: 'Niečo mi bzučalo okolo tváre.'
+      img: 'He floated on the water, he dived, but of all the animals he was looked over the shoulder for his ugliness.'
     },
     {
       name: '6',
-      img: 'It was a bee.'
+      img: 'Nu kom hösten, löven i skogen blev gula och bruna  och uppe i luften såg det kallt ut. '
     },
     {
       name: '6',
-      img: 'Bola to včela.'
+      img: 'Now autumn came, the leaves in the forest turned yellow and brown and up in the air it looked cold. '
     },
     {
       name: '7',
-      img: 'When I stay still, it might not sting me.'
+      img: 'Molnen hängde tunga.'
     },
     {
       name: '7',
-      img: 'Keď zostanem nehybný, možno ma neuštípne.'
+      img: 'The clouds hung heavy.'
     },
     {
       name: '8',
-      img: 'The bee buzzed off and I was sure.'
+      img: ' Ja, man kunde riktigt frysa, då man tänkte på det.'
     },
     {
       name: '8',
-      img: 'Včela odbzučala a ja som bol v bezpečí.'
+      img: 'Yes, you could really freeze, when you thought about it. '
     },
     {
       name: '9',
-      img: 'Jamie was holding a little red berry.'
+      img: 'Den stackars ankungen hade verkligen inte trevligt.'
     },
     {
       name: '9',
-      img: 'Jamie držal malú červenú bobuľu.'
+      img: "The poor duckling really didn't have a good time."
     },
     {
       name: '10',
-      img: 'You must never eat anything you find in the garden.'
+      img: 'En kväll när solen gick ned kom en hel flock stora vackra fåglar ut ur buskarna.'
     },
     {
       name: '10',
-      img: 'Nikdy nesmieš jesť nič, čo nájdeš v záhrade.'
+      img: 'One evening when the sun was setting, a whole flock of big beautiful birds came out of the bushes.'
     },
     {
       name: '11',
-      img: 'It might be poisonous.'
+      img: 'Ankungen hade aldrig sett några så vackra, de var alldeles skinande vita, med långa, smidiga halsar.'
     },
     {
       name: '11',
-      img: 'Môže to byť jedovaté.'
+      img: 'The duckling had never seen any so beautiful, they were absolutely shining white, with long, flexible necks.'
     },
     {
       name: '12',
-      img: 'Jamie opened his mouth to show them that he hadn´t eaten any berries.'
+      img: 'Det var svanar.'
     },
     {
       name: '12',
-      img: 'Jamie otvoril ústa, aby im ukázal, že nejedol žiadne bobule.'
+      img: ' It was swans.'
     }
   ]
 

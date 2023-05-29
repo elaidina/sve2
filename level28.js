@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'Before anyone could stop me, I went home.'
+      img: 'Kan du lägga ägg? frågade hon.'
     },
     {
       name: '1',
-      img: 'Skôr ako ma niekto stihol zastaviť, išiel som domov.'
+      img: 'Can you lay eggs? she asked.'
     },
     {
       name: '2',
-      img: 'They could not find me anywhere.'
+      img: 'Nej!'
     },
     {
       name: '2',
-      img: 'Nikde ma nemohli nájsť.'
+      img: ' No!'
     },
     {
       name: '3',
-      img: 'When we reached the new house, we felt miserable.'
+      img: 'Nå, håll då munnen på dig ! '
     },
     {
       name: '3',
-      img: 'Keď sme prišli do nového domu, cítili sme sa mizerne.'
+      img: 'Well, then keep your mouth shut! '
     },
     {
       name: '4',
-      img: 'I´ve just had a bright idea!'
+      img: 'Och katten sade: Kan du skjuta rygg, spinna och gnistra?'
     },
     {
       name: '4',
-      img: 'Práve som dostal dobrý nápad!'
+      img: 'And the cat said: Can you push back, purr and sparkle?'
     },
     {
       name: '5',
-      img: 'One on my laces came undone and I trod on it.'
+      img: 'Ja, då skall du inte ha någon åsikt, då förståndigt folk talar!'
     },
     {
       name: '5',
-      img: 'Jedna šnúrka sa mi rozviazala a ja som na ňu šliapol.'
+      img: "Yes, then you shouldn't have any opinion, when sensible people speak!"
     },
     {
       name: '6',
-      img: 'I had to tie my laces properly.'
+      img: 'Och ankungen satt i sin vrå och var på dåligt humör.'
     },
     {
       name: '6',
-      img: 'Musel som si poriadne zaviazať šnúrky.'
+      img: 'And the duckling sat in his corner and was in a bad mood. '
     },
     {
       name: '7',
-      img: 'He drove away in the car.'
+      img: 'Plötsligt kom han att tänka på friska luften och solskenet Och fick lust att flyta på vattnet.'
     },
     {
       name: '7',
-      img: 'Odišiel v aute.'
+      img: 'Suddenly he thought of the fresh air and the sunshine And felt like floating on the water.'
     },
     {
       name: '8',
-      img: 'Mummy was not very pleased with me.'
+      img: 'Slutligen kunde han inte låta bli att säga det till hönan.'
     },
     {
       name: '8',
-      img: 'Mamička so mnou nebola veľmi spokojná.'
+      img: "Finally, he couldn't help but tell the hen."
     },
     {
       name: '9',
-      img: 'There was such a lot to do.'
+      img: 'Vad går åt dig? frågade hon. '
     },
     {
       name: '9',
-      img: 'Bolo tam veľa práce.'
+      img: "What's wrong with you? she asked."
     },
     {
       name: '10',
-      img: 'Let´s go and climb that tree.'
+      img: 'Du har ingenting att göra, därför får du de där infallen. '
     },
     {
       name: '10',
-      img: 'Poďme a vylezme na ten strom.'
+      img: "You have nothing to do, that's why you get those whims. "
     },
     {
       name: '11',
-      img: 'That night, I slept in my new bedroom for the first time.'
+      img: 'Lägg ägg eller spinn, så gå det över!'
     },
     {
       name: '11',
-      img: 'Tú noc som prvýkrát spal vo svojej novej spálni.'
+      img: "Lay eggs or spin, and it's over!"
     },
     {
       name: '12',
-      img: 'Soon I was asleep in my new home.'
+      img: 'Men det är så härligt att flyta på vattnet!'
     },
     {
       name: '12',
-      img: 'Čoskoro som zaspal vo svojom novom domove.'
+      img: 'But it is so wonderful to float on the water! '
     }
   ]
 

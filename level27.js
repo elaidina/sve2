@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'Who is going to make bread?'
+      img: 'Hon värpte snällt och gumman höll av henne som sitt eget barn.'
     },
     {
       name: '1',
-      img: 'Kto bude piecť chlieb?'
+      img: 'She gave birth nicely and the old woman cared for her like her own child.'
     },
     {
       name: '2',
-      img: 'I´m going to eat this bread.'
+      img: 'På morgonen märkte man snabbt den främmande ankungen och katten började spinna och hönan kackla.'
     },
     {
       name: '2',
-      img: 'Zjem tento chlieb.'
+      img: 'In the morning, the strange duckling was quickly noticed and the cat began to purr and the hen to cluck.'
     },
     {
       name: '3',
-      img: 'They are going to move house.'
+      img: 'Vad för något! '
     },
     {
       name: '3',
-      img: 'Chystajú sa presťahovať.'
+      img: 'What! '
     },
     {
       name: '4',
-      img: 'There is a lot of work to do.'
+      img: 'sade gumman och såg sig runt omkring. '
     },
     {
       name: '4',
-      img: 'Chystajú sa presťahovať.'
+      img: 'said the old woman, looking around.'
     },
     {
       name: '5',
-      img: 'We must sort out the things we want to keep and the things we can throw away.'
+      img: 'Men hon såg inte så bra och så trodde hon, att ankungen var en fet anka, som hade kommit vilse.'
     },
     {
       name: '5',
-      img: 'Musíme vytriediť veci, ktoré si chceme ponechať, a veci, ktoré môžeme vyhodiť.'
+      img: "But she couldn't see very well and so she thought the duckling was a fat duck that had gotten lost. "
     },
     {
       name: '6',
-      img: 'The kittens kept getting in the way.'
+      img: 'Det var ju en rar fångst! sade hon.'
     },
     {
       name: '6',
-      img: 'Mačiatka stále zavadzali.'
+      img: ' It was a rare catch! she said.'
     },
     {
       name: '7',
-      img: 'At last it was the day of the move.'
+      img: 'Nu kan jag få ankägg, bara det inte är en ankhanne. '
     },
     {
       name: '7',
-      img: 'Konečne nastal deň sťahovania.'
+      img: "Now I can get duck eggs, as long as it's not a male duck. "
     },
     {
       name: '8',
-      img: 'We watched the men packing things and putting them in the van.'
+      img: 'Det måste vi pröva.'
     },
     {
       name: '8',
-      img: 'Sledovali sme mužov, ako balili veci a ukladali ich do dodávky.'
+      img: 'We have to try that.'
     },
     {
       name: '9',
-      img: 'It took a long time.'
+      img: 'Och så blev ankungen antagen på prov i tre veckor men det blev inga ägg. '
     },
     {
       name: '9',
-      img: 'Trvalo to dlho.'
+      img: 'And so the duckling was accepted for testing for three weeks, but there were no eggs. '
     },
     {
       name: '10',
-      img: 'When the house was quite empty, we felt a bit sad.'
+      img: "Katten var herre i huset, och hönan var fru och alltid sade de:"
     },
     {
       name: '10',
-      img: 'Keď bol dom celkom prázdny, bolo nám trochu smutno.'
+      img: ' The cat was the master of the house, and the hen was the wife, and they always said:  '
     },
     {
       name: '11',
-      img: 'My brother carried the goldfish in their tank.'
+      img: 'Vi och världen! De trodde, att de utgjorde hälften av den och det var den allra bästa delen.      '
     },
     {
       name: '11',
-      img: 'Môj brat nosil zlatú rybku v ich nádrži.'
+      img: 'We and the world!They thought they made up half of it and that was the very best part.'
     },
     {
       name: '12',
-      img: 'The baby needed a cuddle.'
+      img: 'Ankungen tyckte, att man också kunde ha en annan åsikt, men det kunde hönan inte tåla.'
     },
     {
       name: '12',
-      img: 'Bábätko sa potrebovalo túliť.'
+      img: 'The duckling thought that you could also have a different opinion, but the hen could not stand that.'
     }
   ]
 

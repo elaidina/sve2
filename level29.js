@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'I have found your babies.'
+      img: 'sade ankungen.'
     },
     {
       name: '1',
-      img: "Našiel som tvoje deti."
+      img: "said the duckling."
     },
     {
       name: '2',
-      img: 'Don´t do that!'
+      img: 'Så härligt att få det över huvudet och dyka ned till bottnen.'
     },
     {
       name: '2',
-      img: 'Nerob to!'
+      img: 'So lovely to get it over your head and dive down to the bottom.'
     },
     {
       name: '3',
-      img: 'When it´s red, we have stop and wait until it´s green again.'
+      img: 'Jo, det är just ett stort nöje! sade hönan.'
     },
     {
       name: '3',
-      img: 'Keď je červená, musíme zastaviť a počkať, kým bude opäť zelená.'
+      img: "Yes, it's just a great pleasure! said the hen. "
     },
     {
       name: '4',
-      img: 'Hold tight to my hands.'
+      img: 'Du måste visst ha blivit tokig! '
     },
     {
       name: '4',
-      img: 'Drž ma pevne za ruky.'
+      img: 'You must have gone crazy! '
     },
     {
       name: '5',
-      img: 'This is a very busy road.'
+      img: 'Fråga katten, som är den klokaste jag känner, om han tycker om att flyta på vattnet eller dyka ned.'
     },
     {
       name: '5',
-      img: 'Toto je veľmi frekventovaná cesta.'
+      img: 'Ask the cat, who is the smartest I know, if he likes to float on water or dive.'
     },
     {
       name: '6',
-      img: 'We must find a safe crossing.'
+      img: ' Jag vill inte tala om mig. '
     },
     {
       name: '6',
-      img: 'Musíme nájsť bezpečný prechod.'
+      img: "I don't want to talk about me."  
     },
     {
       name: '7',
-      img: 'Look, there are traffic lights.'
+      img: 'Fråga själva vårt herskap, den gamla gumman.'
     },
     {
       name: '7',
-      img: 'Pozri, sú tu semafory.'
+      img: ' Ask our Lordship herself, the old lady.'
     },
     {
       name: '8',
-      img: 'I pressed the button and soon the traffic stopped.'
+      img: 'Klokare än hon fins ingen i världen. '
     },
     {
       name: '8',
-      img: 'Stlačil som tlačidlo a premávka sa čoskoro zastavila.'
+      img: 'There is no one in the world wiser than her.'
     },
     {
       name: '9',
-      img: 'The green man showed us we should cross now.'
+      img: 'Tror du, att hon har lust att flyta och få vatten över huvudet?'
     },
     {
       name: '9',
-      img: 'Zelený muž nám ukázal, že by sme teraz mali prejsť.'
+      img: 'Do you think she wants to float and get water over her head?      '
     },
     {
       name: '10',
-      img: 'He beeped to hurry us up.'
+      img: 'Ni förstår mig inte, sade ankungen.'
     },
     {
       name: '10',
-      img: 'Pípol, aby nás poponáhľal.'
+      img: "You don't understand me, said the duckling."
     },
     {
       name: '11',
-      img: 'She was pleased to see her friend.'
+      img: ' Ja, om inte vi förstår dig, vem skulle då förstå dig? '
     },
     {
       name: '11',
-      img: 'Bola rada, že vidí svojho priateľa.'
+      img: "Yes, if we don't understand you, then who would understand you?"
     },
     {
       name: '12',
-      img: 'They played football in the garden.'
+      img: 'Du tror väl inte att du kan vara klokare än katten och gumman, för att inte tala om mig?'
     },
     {
       name: '12',
-      img: 'Hrali futbal v záhrade.'
+      img: "You don't think you can be wiser than the cat and the old woman, not to mention me?"
     }
   ]
 
