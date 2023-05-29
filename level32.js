@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'Don´t stand near the cooker.'
+      img: 'Till slut blev han utmattad, låg alldeles stilla och frös fast i isen.'
     },
     {
       name: '1',
-      img: 'Nestojte blízko sporáka.'
+      img: 'Finally he became exhausted, lay very still and froze in the ice.'
     },
     {
       name: '2',
-      img: 'It is very hot and you might burn yourself.'
+      img: 'Tidigt på morgonen kom en bonde. '
     },
     {
       name: '2',
-      img: 'Je to veľmi horúce a môžete sa popáliť.'
+      img: 'Early in the morning a farmer came.'
     },
     {
       name: '3',
-      img: 'Oh no, I have spilt my milk.'
+      img: 'Han fick se honom, gick ut och slog med sin träsko sönder isen och bar så ankungen hem till sin hustru. '
     },
     {
       name: '3',
-      img: 'Ach nie, rozlial som mlieko.'
+      img: 'He got to see him, went out and broke the ice with his clog, and then carried the duckling home to his wife.'
     },
     {
       name: '4',
-      img: 'Tom went to fetch a mop from the cleaning cupboard.'
+      img: 'Där blev han återkallad till livet.'
     },
     {
       name: '4',
-      img: 'Tom išiel po mop z upratovacej skrine.'
+      img: 'There he was recalled to life.'
     },
     {
       name: '5',
-      img: 'Inside the cupboard were all the things we need to keep the house clean.'
+      img: 'Barnen ville leka med honom, men ankungen trodde, att de ville göra honom illa och for i förskräckelsen upp i mjölkfatet, ...'
     },
     {
       name: '5',
-      img: 'V skrini boli všetky veci, ktoré potrebujeme na udržanie čistoty v dome.'
+      img: 'The children wanted to play with him, but the duckling thought that they wanted to hurt him and, in terror, ran into the milk dish, ...'
     },
     {
       name: '6',
-      img: 'What a lot of bottles!'
+      img: '...så att mjölken skvalpade ut på golvet. '
     },
     {
       name: '6',
-      img: 'Aké množstvo fliaš!'
+      img: '...so that the milk splashed onto the floor. '
     },
     {
       name: '7',
-      img: 'I keep the cupboard door locked.'
+      img: 'Gumman skrek och slog med händerna i vädret, så flög han i tråget, där smöret låg och så ned i mjöltunnan och upp igen. '
     },
     {
       name: '7',
-      img: 'Dvere skrine nechávam zamknuté.'
+      img: 'The old woman screamed and clapped her hands in the air, then he flew into the trough where the butter was and then down into the flour barrel and up again. '
     },
     {
       name: '8',
-      img: 'After tea we watched a film on TV.'
+      img: 'Åh, så han såg ut! '
     },
     {
       name: '8',
-      img: 'Po čaji sme pozerali film v televízii.'
+      img: 'Oh, what he looked like!'
     },
     {
       name: '9',
-      img: 'The cat played on the floor.'
+      img: 'Gumman skrek och slog efter honom med eldtången...'
     },
     {
       name: '9',
-      img: 'Mačka sa hrala na podlahe.'
+      img: 'The old woman screamed and hit him with the tongs ...'
     },
     {
       name: '10',
-      img: 'The cat has a tiny toy.'
+      img: '...och barnen sprang omkull varandra för att fånga ankungen och de skrattade och skrek. '
     },
     {
       name: '10',
-      img: 'Mačka má maličkú hračku.'
+      img: '...and the children ran over each other to catch the duckling and they laughed and screamed. '
     },
     {
       name: '11',
-      img: 'Spit it out!'
+      img: ' Som tur var stod  dörren öppen. '
     },
     {
       name: '11',
-      img: 'Vypľuj to!'
+      img: 'Luckily the door was open. '
     },
     {
       name: '12',
-      img: 'You could swallow it and choke.'
+      img: 'Ut for han bland buskarna i den nyfallna snön - och där låg han som i dvala.'
     },
     {
       name: '12',
-      img: 'Mohli by ste to prehltnúť a udusiť sa.'
+      img: 'He went out among the bushes in the newly fallen snow - and there he lay as if asleep.'
     }
   ]
 

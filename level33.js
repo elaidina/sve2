@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'Dad came to catch us in his car.'
+      img: 'Under den stränga vintern fick han utstå nöd och elände. '
     },
     {
       name: '1',
-      img: 'Otec nás prišiel vyzdvihnúť svojím autom.'
+      img: 'During the severe winter he had to endure want and misery.'
     },
     {
       name: '2',
-      img: 'He put us in our safety seats and fastened our safety belts.'
+      img: 'Han låg i mossen bland vassen, då solen åter började att skina varmt, lärkorna sjöng - det var härlig vår.'
     },
     {
       name: '2',
-      img: 'Posadil nás na naše bezpečnostné sedadlá a zapol nám bezpečnostné pásy.'
+      img: 'He was lying in the marsh among the reeds, when the sun again began to shine warmly, the larks sang - it was a lovely spring.'
     },
     {
       name: '3',
-      img: 'Have you enjoyed yourself?'
+      img: 'Han låg i mossen bland vassen, då solen åter började att skina varmt, lärkorna sjöng - det var härlig vår...'
     },
     {
       name: '3',
-      img: 'Užili ste si?'
+      img: 'Then he raised even his wings, they whizzed stronger than before...'
     },
     {
       name: '4',
-      img: 'I saved Tom´s life.'
+      img: '...och bar honom kraftigt framåt och innan han visste av det, var han i en stor trädgård , där äppelträden stod i blom och syrenerna blommade...'
     },
     {
       name: '4',
-      img: 'Zachránil som Tomovi život.'
+      img: '...and carried him strongly forward and before he knew it, he was in a large garden, where the apple trees were in bloom and the lilacs bloomed...'
     },
     {
       name: '5',
-      img: 'Well done.'
+      img: ' ...och hängde ner mot kanalen.'
     },
     {
       name: '5',
-      img: 'Výborne.'
+      img: '...and hung down towards the canal.'
     },
     {
       name: '6',
-      img: 'Turn the page.'
+      img: 'Här var så vackert! '
     },
     {
       name: '6',
-      img: 'Teraz otočte stránku.'
+      img: 'It was so beautiful here!'
     },
     {
       name: '7',
-      img: 'Help me solve the puzzle.'
+      img: 'Och ut ur de täta buskarna mitt framför honom kom tre vackra, vita svanar. '
     },
     {
       name: '7',
-      img: 'Pomôžte mi vyriešiť hádanku.'
+      img: 'And out of the dense bushes right in front of him came three beautiful, white swans. '
     },
     {
       name: '8',
-      img: 'Point to the things that could be dangerous.'
+      img: 'De blåste upp fjädrarna och flöt så lätt på vattnet.'
     },
     {
       name: '8',
-      img: 'Ukazuj na veci, ktoré by mohli byť nebezpečné.'
+      img: 'They inflated their feathers and floated so easily on the water. '
     },
     {
       name: '9',
-      img: 'This is a haunted house.'
+      img: 'Ankungen kände igen de präktiga djuren och betogs av ett underligt vemod.'
     },
     {
       name: '9',
-      img: 'Toto je strašidelný dom.'
+      img: 'The duckling recognized the magnificent animals and was seized with a strange melancholy.'
     },
     {
       name: '10',
-      img: 'Once there was a girl.'
+      img: ' Jag vill flyga fram till dem, de kungliga fåglarna men de skulle hugga ihjäl mig, för att jag som är så ful vågar närma mig dem. '
     },
     {
       name: '10',
-      img: 'Bolo raz jedno dievča.'
+      img: ' I want to fly up to them, the royal birds, but they would stab me to death, because I, who am so ugly, dare to approach them.'
     },
     {
       name: '11',
-      img: 'She went to live in this big old house.'
+      img: 'Men det gör det samma! '
     },
     {
       name: '11',
-      img: 'Odišla bývať do tohto veľkého starého domu.'
+      img: 'But it does the same! '
     },
     {
       name: '12',
-      img: 'It was a splendid place.'
+      img: 'Bättre att dödas av dem än att nypas av ankorna, hackas av hönsen, sparkas av pigan, som sköter hönsgården och slita ont om vintern.'
     },
     {
       name: '12',
-      img: 'Bolo to skvelé miesto.'
+      img: 'Better to be killed by them than to be pinched by the ducks, pecked by the hens, kicked by the maid who looks after the hen house and toil badly in the winter.'
     }
   ]
 

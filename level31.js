@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'It was nearly time for tea, so they all went indoors to wash their hands.'
+      img: 'De utstötte ett helt underligt ljud, bredde ut sina präktiga, långa vingar och flög bort från de kalla trakterna till varmare länder och öppna sjöar. '
     },
     {
       name: '1',
-      img: 'Už bol skoro čas na čaj, takže všetci išli dovnútra umyť si ruky.'
+      img: ' They uttered a strange sound, spread their magnificent, long wings, and flew away from the cold regions to warmer lands and open lakes. '
     },
     {
       name: '2',
-      img: 'Tom undid the stair gate and Josie helped her sister to climb the stairs.'
+      img: 'De steg så högt, så högt och den fula , lilla ankungen blev så underlig till mods. '
     },
     {
       name: '2',
-      img: 'Tom otvoril schodiskovú bránu a Josie pomohla svojej sestre vyjsť po schodoch.'
+      img: 'They climbed so high, so high and the ugly little duckling became so strangely at ease. '
     },
     {
       name: '3',
-      img: 'I made sure that the water was not too hot.'
+      img: 'Han vände sig runt omkring i vattnet och  sträckte halsen högt upp i luften efter dem och utstötte ett skri så högt och förunderligt, att han själv blev rädd.'
     },
     {
       name: '3',
-      img: 'Uistil som sa, že voda nie je príliš horúca.'
+      img: 'He turned around in the water and stretched his neck high into the air after them, and uttered a scream so loud and wonderful that he himself was frightened.'
     },
     {
       name: '4',
-      img: 'We all washed our hands.'
+      img: 'Han kunde inte glömma de vackra fåglarna, de lyckliga fåglarna och då han inte längre kunde se dem, dök han ända ned till bottnen och när han kom upp igen, var han utom sig.'
     },
     {
       name: '4',
-      img: 'Všetci sme si umyli ruky.'
+      img: 'He could not forget the beautiful birds, the happy birds and when he could no longer see them, he dived right down to the bottom and when he came up again, he was beside himself.'
     },
     {
       name: '5',
-      img: 'I wanted to look out of the bathroom window.'
+      img: 'Han visste inte vad fåglarna hette eller vart de flög, men tyckte ändå om dem så, som han ännu aldrig hade tyckt om någon. '
     },
     {
       name: '5',
-      img: 'Chcel som sa pozrieť z okna v kúpeľni.'
+      img: "He didn't know what the birds were called or where they flew, but still liked them so, as he had never yet liked anyone. "
     },
     {
       name: '6',
-      img: 'Be careful, please.'
+      img: 'Han var inte avundsjuk på dem. '
     },
     {
       name: '6',
-      img: 'Buď opatrný, prosím.'
+      img: 'He was not jealous of them. '
     },
     {
       name: '7',
-      img: 'It is not safe to lean out of windows.'
+      img: 'Han skulle varit glad, om bara ankorna velat ha honom bland sig, det stackars fula djuret!'
     },
     {
       name: '7',
-      img: 'Nie je bezpečné vykláňať sa z okien.'
+      img: 'He would have been happy, if only the ducks wanted him among them, the poor ugly animal!'
     },
     {
       name: '8',
-      img: 'I wouldn´t.'
+      img: 'Och vintern blev så kall, så kall.'
     },
     {
       name: '8',
-      img: 'Nechystal som sa.'
+      img: 'And the winter got so cold, so cold.'
     },
     {
       name: '9',
-      img: 'Tom ran out of the bathroom and held the door shut.'
+      img: 'Ankungen måste simma omkring i vattnet för att hindra att det skulle frysa till. '
     },
     {
       name: '9',
-      img: 'Tom vybehol z kúpeľne a podržal dvere zatvorené.'
+      img: 'The duckling must swim around in the water to prevent it from freezing.'
     },
     {
       name: '10',
-      img: 'Let me out, Tom.'
+      img: 'Men med varje natt blev hålet, som han simmade i, allt mindre och mindre.'
     },
     {
       name: '10',
-      img: 'Pusti ma von, Tom.'
+      img: 'But with each night the hole in which he swam became smaller and smaller. '
     },
     {
       name: '11',
-      img: 'It is dangerous to play with doors.'
+      img: 'Det frös så, att det knakade i isskorpan. '
     },
     {
       name: '11',
-      img: 'Je nebezpečné hrať sa s dverami.'
+      img: ' It froze so hard that it cracked the ice crust. '
     },
     {
       name: '12',
-      img: 'Someone´s fingers could get caught.'
+      img: 'Ankungen måste ständigt röra benen, så att vattnet inte skulle frysa till. '
     },
     {
       name: '12',
-      img: 'Niekomu by sa mohli zachytiť prsty.'
+      img: 'The duckling must constantly move its legs, so that the water would not freeze.'
     }
   ]
 

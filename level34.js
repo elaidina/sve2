@@ -3,27 +3,27 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'But the girl wasn´t just a girl.'
+      img: 'Han flög ut i vattnet och simmade fram mot de präktiga svanarna. '
     },
     {
       name: '1',
-      img: 'Ale to dievča nebolo len dievča.'
+      img: 'He flew into the water and swam towards the magnificent swans. '
     },
     {
       name: '2',
-      img: 'She was a witch.'
+      img: 'De såg honom och sköt med uppblåsta fjädrar fram emot honom.'
     },
     {
       name: '2',
-      img: 'Bola čarodejnica.'
+      img: 'They saw him and shot at him with inflated feathers.'
     },
     {
       name: '3',
-      img: 'She knew how to catch ghosts.'
+      img: 'Döda mig bara!'
     },
     {
       name: '3',
-      img: 'Vedela, ako chytať duchov.'
+      img: 'Just kill me! '
     },
     {
       name: '4',
