@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'They searched through a box of glittering decorations.'
+      img: 'När prinsessan öppnade dörren, kom grodan in och sov på hennes kudde tills morgonen kom. '
     },
     {
       name: '1',
-      img: 'Prehľadávali škatuľu s trblietavými dekoráciami.'
+      img: 'When the princess opened the door, the frog came in and slept on her pillow until morning came.'
     },
     {
       name: '2',
-      img: 'Tom found a little angel for the top of the tree.'
+      img: 'Den tredje kvällen gjorde han det igen, men när prinsessan vaknade, ...'
     },
     {
       name: '2',
-      img: 'Tom našiel malého anjela pre vrchol stromu.'
+      img: ' On the third night he did it again, but when the princess awoke, ...'
     },
     {
       name: '3',
-      img: 'You are very helpful.'
+      img: '...följande morgon, blev hon väldigt överraskad. '
     },
     {
       name: '3',
-      img: 'Si veľmi nápomocný.'
+      img: '... the following morning, she was very surprised. '
     },
     {
       name: '4',
-      img: 'There is a special someone waiting to meet you before we go home.'
+      img: 'Hon såg då inte en groda utan en vacker prins, ...'
     },
     {
       name: '4',
-      img: 'Je tu  špeciálny , kto čaká na stretneme, kým pôjdeme domov.'
+      img: 'She then saw not a frog but a handsome prince, ...'
     },
     {
       name: '5',
-      img: 'The little wooden house was covered with snow.'
+      img: '...som såg på henne med de vackraste ögon hon någonsin sett.'
     },
     {
       name: '5',
-      img: 'Ten malý drevený domček bol pokrytý snehom.'
+      img: '...who looked at her with the most beautiful eyes she had ever seen.'
     },
     {
       name: '6',
-      img: 'Do come in and meet Father Christmas.'
+      img: 'Han berättade att han blivit förtrollad av en ond fe, ...'
     },
     {
       name: '6',
-      img: 'Príďte a stretnite sa s Otcom Vianoc.'
+      img: 'He told that he had been bewitched by an evil fairy,...'
     },
     {
       name: '7',
-      img: 'The lady was dressed as an elf.'
+      img: '...som hade förvandlat honom till en groda och att han så skulle förbli, ...'
     },
     {
       name: '7',
-      img: 'Tá dáma bola oblečená ako škriatok.'
+      img: '...who had turned him into a frog, and that he would remain so, ...'
     },
     {
       name: '8',
-      img: 'Have you been good children?'
+      img: '...tills någon prinsessa tog honom ur brunnen och lät honom äta från sin tallrik...'
     },
     {
       name: '8',
-      img: 'Boli ste dobré deti?'
+      img: '...until some princess took him out of the well and let him eat from her plate ...'
     },
     {
       name: '9',
-      img: 'Yes, always.'
+      img: '...och sova i sin säng i tre nätter.'
     },
     {
       name: '9',
-      img: 'Áno, vždy.'
+      img: '...and sleep in her bed for three nights. '
     },
     {
       name: '10',
-      img: 'Will you come down our chimney with presents on Christmas Eve?'
+      img: 'Du har nu brutit förtrollningen.'
     },
     {
       name: '10',
-      img: 'Prídeš ku nám na Štedrý večer dolu komínom s darčekmi?'
+      img: 'You have now broken the spell.'
     },
     {
       name: '11',
-      img: 'Don´t you worry.'
+      img: 'sa prinsen, och jag har inga andra önskningar än att du vill följa med mig till min fars kungarike, ...'
     },
     {
       name: '11',
-      img: 'Nerob si starosti.'
+      img: "said the prince, “and I have no other wishes than that you will come with me to my father's kingdom, ..."
     },
     {
       name: '12',
-      img: 'I will be there.'
+      img: '...där jag kommer att gifta mig med dig och älska dig så länge jag lever.'
     },
     {
       name: '12',
-      img: 'Budem tam.'
+      img: ' where I will marry you and love you as long as I live.'
     }
   ]
 

@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'It was time for Tom to go shopping.'
+      img: 'Medan hon pratade, stack en groda upp huvudet ur vattnet och sa:'
     },
     {
       name: '1',
-      img: 'Bol čas, aby sa Tom vybral na nákup.'
+      img: 'While she was talking, a frog stuck its head out of the water and said,'
     },
     {
       name: '2',
-      img: 'While I was sitting in the waiting room, she was reading comics.'
+      img: 'Prinsessa, varför är du så ledsen?'
     },
     {
       name: '2',
-      img: 'Kým som sedel v čakárni, ona čítala komiksy.'
+      img: 'Princess, why are you so sad?'
     },
     {
       name: '3',
-      img: 'The door opened and out came the president.'
+      img: 'Äh! sa hon'
     },
     {
       name: '3',
-      img: 'Dvere sa otvorili a vyšiel prezident.'
+      img: 'Uh! said she'
     },
     {
       name: '4',
-      img: 'Tom smiled to me.'
+      img: 'Vad kan väl du göra för mig din elaka groda?'
     },
     {
       name: '4',
-      img: 'Tom sa na mňa usmial.'
+      img: 'What can you do for me you mean frog?'
     },
     {
       name: '5',
-      img: 'Why do you have to wear a brace on your teeth?'
+      img: 'Min gyllene boll har ramlat ner i brunnen.'
     },
     {
       name: '5',
-      img: 'Prečo musíš nosiť na zuboch strojček?'
+      img: 'My golden ball has fallen into the well.'
     },
     {
       name: '6',
-      img: 'To make my teeth straight.'
+      img: 'Grodan sa då:'
     },
     {
       name: '6',
-      img: 'Aby som mal rovné zuby.'
+      img: 'The frog then said:'
     },
     {
       name: '7',
-      img: 'Laura is ready to see you now.'
+      img: 'Jag vill inte ha dina fina kläder, dina juveler eller pärlor men om du kommer att älska mig,...'
     },
     {
       name: '7',
-      img: 'Laura je pripravená ťa teraz vidieť.'
+      img: "I don't want your fine clothes, your jewels or pearls but if you will love me, ..."
     },
     {
       name: '8',
-      img: 'This is a nice clean smell.'
+      img: '... låta mig leva med dig, äta från dina gyllene tallrikar och sova i din säng, ...'
     },
     {
       name: '8',
-      img: 'Toto je pekná čistá vôňa.'
+      img: '...let me live with you, eat from your golden plates and sleep in your bed,...'
     },
     {
       name: '9',
-      img: 'Who wants to go first?'
+      img: '...då skall jag ge dig tillbaka din boll.'
     },
     {
       name: '9',
-      img: 'Kto chce ísť prvý?'
+      img: '...then I will give you back your ball. '
     },
     {
       name: '10',
-      img: 'Tom climbed into the dentist´s chair.'
+      img: 'Vilket trams'
     },
     {
       name: '10',
-      img: 'Tom vyliezol do zubárskeho kresla.'
+      img: 'What nonsense'
     },
     {
       name: '11',
-      img: 'Mrs White pressed a button and the chair tilted back.'
+      img: 'tänkte prinsessan'
     },
     {
       name: '11',
-      img: 'Pani Whiteová stlačila tlačidlo a stolička sa naklonila dozadu.'
+      img: 'thought the princess'
     },
     {
       name: '12',
-      img: 'Tom felt like a rocket pilot.'
+      img: 'den här dumma grodan pratar'
     },
     {
       name: '12',
-      img: 'Tom sa cítil ako pilot rakety.'
+      img: 'this stupid frog is talking'
     }
   ]
 

@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'She put a disposable mask over her nose and mouth.'
+      img: ' Han kan ju inte ens komma ur vattnet för att besöka mig,...'
     },
     {
       name: '1',
-      img: 'Na nos a ústa si dala jednorazovú masku.'
+      img: "He can't even get out of the water to visit me,..."
     },
     {
       name: '2',
-      img: 'What´s that for?'
+      img: '...men han kan nog hämta min boll. '
     },
     {
       name: '2',
-      img: 'Na čo to je?'
+      img: '...but he can probably get my ball. '
     },
     {
       name: '3',
-      img: 'So that I don´t breathe over you.'
+      img: 'Därför skall jag säga att han får allt han ber om.'
     },
     {
       name: '3',
-      img: 'Aby som nad tebou nedýchal.'
+      img: 'Therefore I shall say that he gets everything he asks for.'
     },
     {
       name: '4',
-      img: 'It´s your turn now.'
+      img: 'Hon sa då till grodan: '
     },
     {
       name: '4',
-      img: 'Teraz si na rade.'
+      img: 'She then said to the frog: '
     },
     {
       name: '5',
-      img: 'She found a little hole in one of Tom´s teeth.'
+      img: 'Om du hämtar min boll, skall du få allt du bett om.'
     },
     {
       name: '5',
-      img: 'Našla malú dierku v jednom z Tomových zubov.'
+      img: 'If you get my ball, you will get everything you asked for.'
     },
     {
       name: '6',
-      img: 'I will clean that hole and put a filling in it.'
+      img: 'Grodan dök då ner under vattnet ...'
     },
     {
       name: '6',
-      img: 'Vyčistím tú dieru a dám do nej výplň.'
+      img: 'The frog then dived under the water ...'
     },
     {
       name: '7',
-      img: 'It will stop pieces of food getting in and turning nasty.'
+      img: '...och efter en stund kom den upp igen med bollen i munnen ...'
     },
     {
       name: '7',
-      img: 'Zabráni tomu, aby sa kúsky jedla dostali dovnútra a robili neplechu.'
+      img: '...and after a while it came up again with the ball in its mouth ...'
     },
     {
       name: '8',
-      img: 'The sucking tube in Tom´s mouth made funny sucking noises.'
+      img: '...och lade den på brunnskanten.'
     },
     {
       name: '8',
-      img: 'Nasávacia hadička v Tomových ústach vydávala smiešne zvuky sania.'
+      img: '...and placed it on the edge of the well.'
     },
     {
       name: '9',
-      img: 'Then she used a whizzy drill to clean out the hole in Tom´s tooth.'
+      img: 'Så snart prinsessan såg bollen, ...'
     },
     {
       name: '9',
-      img: 'Potom použila vrtačku na vyčistenie diery v Tomovom zube.'
+      img: 'As soon as the princess saw the ball, ...'
     },
     {
       name: '10',
-      img: 'The nurse gave Tom a glass of pink water to rinse his mouth.'
+      img: '...sprang hon förtjust fram och plockade upp den ...'
     },
     {
       name: '10',
-      img: 'Sestra dala Tomovi pohár ružovej vody, aby si vypláchol ústa.'
+      img: '...she excitedly ran forward and picked it up...'
     },
     {
       name: '11',
-      img: 'The dentist dried the hole with a little air blower, so that the filling would stick tight inside.'
+      img: '... och tänkte inte mer på grodan,...'
     },
     {
       name: '11',
-      img: 'Zubár dieru vysušil malým dúchadlom, aby sa výplň pevne prilepila.'
+      img: '...and thought no more of the frog, ...'
     },
     {
       name: '12',
-      img: 'The nurse mixed a tiny bit of silver filling.'
+      img: '...utan sprang hem så fort hon kunde.'
     },
     {
       name: '12',
-      img: 'Sestra namiešala malý kúsok striebornej náplne.'
+      img: '...but ran home as fast as she could. '
     }
   ]
 

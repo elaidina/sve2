@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'And don´t eat or drink in bed.'
+      img: 'Då sprang prinsessan fram till dörren och öppnade den.'
     },
     {
       name: '1',
-      img: 'A nejedzte a nepite v posteli.'
+      img: 'Then the princess ran to the door and opened it. '
     },
     {
       name: '2',
-      img: 'Not even water?'
+      img: 'Hon fick då syn på grodan, som hon fullkomligt hade glömt bort.'
     },
     {
       name: '2',
-      img: 'Ani voda?'
+      img: 'She then caught sight of the frog, which she had completely forgotten.'
     },
     {
       name: '3',
-      img: 'Only water.'
+      img: 'Vid denna syn blev hon rädd, ...'
     },
     {
       name: '3',
-      img: 'Len vodu.'
+      img: 'At this sight she was frightened, ...'
     },
     {
       name: '4',
-      img: 'Sweet drinks can hurt your teeth as much as sweet food.'
+      img: '...stängde snabbt dörren och återvände till bordet.'
     },
     {
       name: '4',
-      img: 'Sladké nápoje môžu poškodiť zuby rovnako ako sladké jedlo.'
+      img: '...quickly closed the door and returned to the table. '
     },
     {
       name: '5',
-      img: 'Come back and see me soon.'
+      img: 'Hennes far, kungen, såg att något hade skrämt henne och frågade vad det var. '
     },
     {
       name: '5',
-      img: 'Vráťte sa a čoskoro ma uvidíte.'
+      img: 'Her father, the king, saw that something had frightened her and asked what it was.'
     },
     {
       name: '6',
-      img: 'Before they went home the receptionist wrote down the date of their next visit.'
+      img: 'Det är en otäck groda vid dörren.'
     },
     {
       name: '6',
-      img: 'Skôr ako odišli domov, recepčná zapísala dátum ich ďalšej návštevy.'
+      img: "There's a nasty frog at the door."
     },
     {
       name: '7',
-      img: 'The little boy was trying not to cry.'
+      img: 'sa hon'
     },
     {
       name: '7',
-      img: 'Malý chlapec sa snažil neplakať.'
+      img: 'she said'
     },
     {
       name: '8',
-      img: 'What´s the matter, Tom?'
+      img: 'Han hämtade upp min boll ur brunnen i morse.'
     },
     {
       name: '8',
-      img: 'Čo sa deje, Tom?'
+      img: 'He picked up my ball from the well this morning. '
     },
     {
       name: '9',
-      img: 'I´ve got toothache.'
+      img: 'Jag lovade honom, att han skulle få leva med mig,...'
     },
     {
       name: '9',
-      img: 'Mám bolesti zubov.'
+      img: ' I promised him that he would be allowed to live with me,...'
     },
     {
       name: '10',
-      img: 'He eats too many sweets.'
+      img: '...eftersom jag trodde att han aldrig skulle kunna komma upp ur brunnen och komma hit. '
     },
     {
       name: '10',
-      img: 'Jedáva príliš veľa sladkostí.'
+      img: '...because I thought he would never be able to get out of the well and come here. '
     },
     {
       name: '11',
-      img: 'Never mind.'
+      img: 'Men nu är han här vid dörren och vill komma in.'
     },
     {
       name: '11',
-      img: 'Nevadí.'
+      img: 'But now he is here at the door and wants to come in.'
     },
     {
       name: '12',
-      img: 'Mrs White will make it better.'
+      img: 'Medan hon pratade knackade grodan återigen på dörren och sa:'
     },
     {
       name: '12',
-      img: 'Pani Whiteová to vylepší.'
+      img: 'While she was talking, the frog knocked on the door again and said:'
     }
   ]
 

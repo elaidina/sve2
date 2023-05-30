@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'On the way home they passed a sweet shop.'
+      img: 'Det du lovat måste du hålla.'
     },
     {
       name: '1',
-      img: 'Cestou domov prešli okolo cukrárne.'
+      img: 'What you promised you must keep.'
     },
     {
       name: '2',
-      img: 'I would like some sweets but I don´t want toothache like Tom.'
+      img: 'sa kungen till prinsessan,'
     },
     {
       name: '2',
-      img: 'Chcel by som nejaké sladkosti, ale nechcem, aby ma boleli zuby ako Toma.'
+      img: 'said the king to the princess,'
     },
     {
       name: '3',
-      img: 'There are other tasty things that are better for you.'
+      img: 'Så gå och släpp in honom.'
     },
     {
       name: '3',
-      img: 'Sú iné chutné veci, ktoré sú pre teba lepšie.'
+      img: 'Then go and let him in.'
     },
     {
       name: '4',
-      img: 'So they bought two crunchy apples from the greengrocer.'
+      img: 'Prinsessan gick till dörren och släppte in grodan,...'
     },
     {
       name: '4',
-      img: 'Tak si kúpili dve chrumkavé jablká od zeleninára.'
+      img: 'The princess went to the door and let the frog in,...'
     },
     {
       name: '5',
-      img: 'Then they went to the chemist´s to buy new toothbrushes.'
+      img: '...som hoppade in i rummet med de klafsande ljuden från sina grodfötter:'
     },
     {
       name: '5',
-      img: 'Potom išli do lekárne kúpiť nové zubné kefky.'
+      img: '...who jumped into the room with the clapping sounds of his frog feet: '
     },
     {
       name: '6',
-      img: 'The chemist told them about disclosing tablets.'
+      img: 'Tap, tap, plask, plask'
     },
     {
       name: '6',
-      img: 'Lekárnik im povedal o odhalovacích tabletkách.'
+      img: 'Tap, tap, splash, splash'
     },
     {
       name: '7',
-      img: 'Just chew half a tablet, then rinse your mouth with water.'
+      img: 'Han fortsatte så ända fram till bordet nära den plats där prinsessan satt.'
     },
     {
       name: '7',
-      img: 'Stačí rozžuť polovicu tablety a potom si vypláchnuť ústa vodou.'
+      img: 'He continued in this way as far as the table near where the princess sat.'
     },
     {
       name: '8',
-      img: 'He explained.'
+      img: 'Snälla, lyft upp mig på en stol”, sa han till prinsessan,'
     },
     {
       name: '8',
-      img: 'Vysvetlil.'
+      img: 'Please lift me up on a chair," he said to the princess, '
     },
     {
       name: '9',
-      img: 'The parts of your teeth that most need cleaning will turn pink.'
+      img: 'och låt mig sitta intill dig'
     },
     {
       name: '9',
-      img: 'Časti zubov, ktoré najviac vyžadujú čistenie, sa sfarbia do ružova.'
+      img: 'and let me sit next to you.'
     },
     {
       name: '10',
-      img: 'We would look funny going to playground with pink teeth.'
+      img: 'Så snart hon gjort det, sa grodan:'
     },
     {
       name: '10',
-      img: 'Vyzerali by sme smiešne ísť na ihrisko s ružovými zubami.'
+      img: 'As soon as she had done so, the frog said,'
     },
     {
       name: '11',
-      img: 'The chemist laughed.'
+      img: 'Ställ din tallrik nära mig, så att jag kan äta från den.'
     },
     {
       name: '11',
-      img: 'Chemik sa zasmial.'
+      img: 'Put your plate near me, so that I may eat from it.'
     },
     {
       name: '12',
-      img: 'When there is no pink left, you know your teeth are clean.'
+      img: 'Hon gjorde så och när han ätit så mycket han kunde, sa han: '
     },
     {
       name: '12',
-      img: 'Keď nezostane žiadna ružová, vieš, že máš čisté zuby.'
+      img: 'She did so and when he had eaten as much as he could, he said:'
     }
   ]
 

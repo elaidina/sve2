@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'As soon as he got home, he tried out his new toothbrush.'
+      img: 'Nu är jag trött. '
     },
     {
       name: '1',
-      img: 'Hneď ako sa vrátil domov, vyskúšal svoju novú zubnú kefku.'
+      img: 'Now I am tired.'
     },
     {
       name: '2',
-      img: 'Michelle was very excited.'
+      img: 'Bär mig upp till ditt rum och lägg mig I din säng.'
     },
     { 
       name: '2',
-      img: 'Michelle bola veľmi nadšená.'
+      img: 'Carry me up to your room and put me in your bed.'
     },
     {
       name: '3',
-      img: 'It would soon be Christmas, so she wrote her wishes.'
+      img: 'Prinsessan tog honom då, om än motvilligt, i sin hand, ...'
     },
     {
       name: '3',
-      img: 'Čoskoro budú Vianoce, tak napísala svoje želania.'
+      img: 'The princess then took him, albeit reluctantly, in her hand,...'
     },
     {
       name: '4',
-      img: 'We put on our hats, coats, scarves and gloves because it was cold outside.'
+      img: '...bar upp honom till sitt rum och lade honom på sin kudde.'
     },
     {
       name: '4',
-      img: 'Nasadili sme si čiapky, kabáty, šály a rukavice, pretože vonku bola zima.'
+      img: '...carried him up to her room, and laid him on her pillow.'
     },
     {
       name: '5',
-      img: 'There were lots of families choosing Christmas trees at the Garden Centre.'
+      img: 'Där sov grodan hela natten. '
     },
     {
       name: '5',
-      img: 'V záhradnom centre si vyberalo vianočné stromčeky veľa rodín.'
+      img: 'There the frog slept all night.'
     },
     {
       name: '6',
-      img: 'Which tree shall we get?'
+      img: ' Så snart det var ljust hoppade han upp ur sängen, ...'
     },
     {
       name: '6',
-      img: 'Ktorý strom si máme vziať?'
+      img: 'As soon as it was light, he jumped out of bed,...'
     },
     {
       name: '7',
-      img: 'I like that one because it is really big.'
+      img: '...hoppade nerför trapporna och gick ut ur huset.'
     },
     {
       name: '7',
-      img: 'Ten sa mi páči, pretože je naozaj veľký.'
+      img: '...jumped down the stairs and left the house.'
     },
     {
       name: '8',
-      img: 'It is too big to fit in our car.'
+      img: 'Nå äntligen.'
     },
     {
       name: '8',
-      img: 'Je príliš veľký na to, aby sa zmestil do nášho auta.'
+      img: 'Well at last.'
     },
     {
       name: '9',
-      img: 'They agreed on a very nice smaller tree.'
+      img: 'tänkte prinsessan'
     },
     {
       name: '9',
-      img: 'Dohodli sa na veľmi peknom menšom stromčeku.'
+      img: 'thought the princess'
     },
     {
       name: '10',
-      img: 'Dad fetched a trolley for the tree.'
+      img: 'nu har han gått och han kommer inte att besvära mig mer.'
     },
     {
       name: '10',
-      img: 'Ocko priniesol vozík pre strom.'
+      img: 'now he has gone and he will trouble me no more.'
     },
     {
       name: '11',
-      img: 'The kids helped to push the troley.'
+      img: 'Men hon bedrog sig för till kvällen hörde hon samma konstiga steg i yttertrappan,...'
     },
     {
       name: '11',
-      img: 'Deti pomáhali tlačiť vozík.'
+      img: 'But she was deceived because in the evening she heard the same strange footsteps on the front steps,...'
     },
     {
       name: '12',
-      img: 'They could choose two new tree decorations.'
+      img: '...samma knackning på dörren och grodans röst som ännu en gång ropade:'
     },
     {
       name: '12',
-      img: 'Mohli si vybrať dve nové ozdoby na stromček.'
+      img: "...the same knocking on the door and the frog's voice calling once more:"
     }
   ]
 
