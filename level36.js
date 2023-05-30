@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'It is stuck.'
+      img: 'Så mycken lycka drömde jag inte om, då jag var den fula ankungen!'
     },
     {
       name: '1',
-      img: 'Je to zaseknuté.'
+      img: "I didn't dream of so much happiness when I was the ugly duckling!"
     },
     {
       name: '2',
-      img: 'He does what he can to close up the gap.'
+      img: 'En kväll för länge sedan tog en ung prinsessa på sig sin hätta och sina träskor och gick ut för att ta sig en  promenad i skogen.'
     },
     {
       name: '2',
-      img: 'Robí, čo môže, aby zacelil medzeru.'
+      img: 'One evening long ago, a young princess put on her bonnet and clogs and went out for a walk in the forest. '
     },
     {
       name: '3',
-      img: 'The problem is your glass is too thin.'
+      img: 'Efter en stund kom hon till en vacker springbrunn, där hon satte sig ner, för att vila. '
     },
     {
       name: '3',
-      img: 'Problém je v tom, že tvoje sklo je príliš tenké.'
+      img: 'After a while she came to a beautiful fountain, where she sat down to rest.'
     },
     {
       name: '4',
-      img: 'Go back slowly.'
+      img: 'Hon hade en gyllene boll i sin hand.'
     },
     {
       name: '4',
-      img: 'Pomaly choďte späť.'
+      img: 'She had a golden ball in her hand.'
     },
     {
       name: '5',
-      img: 'Slow down on the bends.'
+      img: 'Det var hennes favoritleksak, som hon nästan alltid gick och jonglerade med. '
     },
     {
       name: '5',
-      img: 'V zákrutách spomaľte.'
+      img: 'It was her favorite toy, which she almost always juggled.'
     },
     {
       name: '6',
-      img: 'He´s going to crash.'
+      img: 'Hon satt nu vid brunnen och kastade bollen upp i luften för att sedan fånga den när den föll ner. '
     },
     {
       name: '6',
-      img: 'Bude havarovať.'
+      img: 'She was now sitting by the well and threw the ball into the air and then caught it as it fell down. '
     },
     {
       name: '7',
-      img: 'What a lot of bad luck.'
+      img: 'Efter en stund kastade hon den så högt, att hon missade att fånga den. '
     },
     {
       name: '7',
-      img: 'Aká veľká smola.'
+      img: 'After a while she threw it so high that she missed catching it. '
     },
     {
       name: '8',
-      img: 'If only that rain hadn´t dripped in his tea.'
+      img: 'Bollen föll ner på marken, studsade iväg och rullade sedan på marken tills den så småningom föll ner i brunnen.'
     },
     {
       name: '8',
-      img: 'Keby mu tak ten dážď nekvapkal do čaju.'
+      img: 'The ball fell to the ground, bounced off, then rolled on the ground until it eventually fell into the well.'
     },
     {
       name: '9',
-      img: 'He forgot to turn his bath tap off.'
+      img: 'Prinsessan tittade i brunnen efter sin boll, men brunnen var väldigt djup, så djup att hon inte såg botten på den. '
     },
     {
       name: '9',
-      img: 'Zabudol vypnúť kohútik vo vani.'
+      img: 'The princess looked in the well for her ball, but the well was very deep, so deep that she could not see the bottom of it.'
     },
     {
       name: '10',
-      img: 'This book belongs to me.'
+      img: 'Hon började olyckligt gråta över sin förlust och sa:'
     },
     {
       name: '10',
-      img: 'Táto kniha patrí mne.'
+      img: 'She began to weep miserably at her loss, and said, '
     },
     {
       name: '11',
-      img: 'I have to go to the dentist.'
+      img: 'Om jag bara kunde få min boll tillbaka igen, skulle jag ge bort alla mina fina kläder och juveler,...'
     },
     {
       name: '11',
-      img: 'Musím ísť k zubárovi.'
+      img: 'If I could only get my ball back again, I would give away all my fine clothes and jewels,...'
     },
     {
       name: '12',
-      img: 'This book belongs to him.'
+      img: '...ja allt som jag hade i denna värld.'
     },
     {
       name: '12',
-      img: 'Táto kniha patrí jemu.'
+      img: '...yea, all that I had in this world.'
     }
   ]
 

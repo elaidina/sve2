@@ -27,75 +27,75 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'I hope there are a few more!'
+      img: 'sade det stackars djuret, böjde sitt huvud ned mot vattenbrynet och väntade döden.'
     },
     {
       name: '4',
-      img: 'Dúfam, že sú ešte nejaké!'
+      img: "said the poor animal, bending his head down to the water's edge and awaiting death."
     },
     {
       name: '5',
-      img: 'She carried on until she had caught all the ghosts in the house.'
+      img: 'Men vad såg han i det klara vattnet?'
     },
     {
       name: '5',
-      img: 'Pokračovala, až kým nepochytila všetkých duchov v dome.'
+      img: 'But what did he see in the clear water?'
     },
     {
       name: '6',
-      img: 'Then she went to the kitchen.'
+      img: 'Han såg under sig sin egen bild men han var inte längre en klumpig, svartgrå fågel, ful och stygg, utan var själv en svan.'
     },
     {
       name: '6',
-      img: 'Potom išla do kuchyne.'
+      img: 'He saw his own image beneath him, but he was no longer a clumsy, black-grey bird, ugly and naughty, but was himself a swan.'
     },
     {
       name: '7',
-      img: 'She put them all in the washing machine.'
+      img: 'Det gör ingenting att vara född i ankgården, om man bara legat i ett svanägg.'
     },
     {
       name: '7',
-      img: 'Všetky ich dala do práčky.'
+      img: "It doesn't matter to be born in the duck farm, if you just lay in a swan's egg."
     },
     {
       name: '8',
-      img: 'When they were clean she hung them out in the garden.'
+      img: 'Och de stora svanarna simmade runt omkring honom och strök honom med näbben.'
     },
     {
       name: '8',
-      img: 'Keď boli čisté, vyvesila ich v záhrade.'
+      img: 'And the great swans swam around him and stroked him with their beaks.'
     },
     {
       name: '9',
-      img: 'It was fine weather for drying.'
+      img: 'Ut i trädgården kom några små barn.'
     },
     {
       name: '9',
-      img: 'Bolo pekné počasie na sušenie.'
+      img: 'Out into the garden came some small children.'
     },
     {
       name: '10',
-      img: 'After drying, most of the ghosts became nice curtains.'
+      img: 'De kastade bröd och säd ut i vattnet. '
     },
     {
       name: '10',
-      img: 'Po vysušení sa z väčšiny duchov stali pekné záclony.'
+      img: 'They threw bread and grain into the water. '
     },
     {
       name: '11',
-      img: 'One of them made a good tablecloth.'
+      img: 'Det minsta ropade: '
     },
     {
       name: '11',
-      img: 'Jeden z nich sa stal dobrým obrusom.'
+      img: 'The smallest cried:'
     },
     {
       name: '12',
-      img: 'They were all very useful.'
+      img: 'Där är en ny! '
     },
     {
       name: '12',
-      img: 'Všetci boli veľmi užitoční.'
+      img: 'There is a new one! '
     }
   ]
 

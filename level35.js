@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'The little witch began to feel very tired after her hard work.'
+      img: 'Och de andra barnen jublade också: '
     },
     {
       name: '1',
-      img: 'Malá čarodejnica sa po tvrdej práci začala cítiť veľmi unavená.'
+      img: 'And the other children also cheered: '
     },
     {
       name: '2',
-      img: 'They all lived happily ever after.'
+      img: 'Ja, det har kommit en ny! '
     },
     {
       name: '2',
-      img: 'Všetci žili šťastne až do smrti.'
+      img: 'Yes, there is a new one!'
     },
     {
       name: '3',
-      img: 'Look up and look down.'
+      img: 'Och de klappade händerna och dansade runt omkring, sprang efter far och mor och så kastades bröd i vattnet och alla sade de: '
     },
     {
       name: '3',
-      img: 'Pozrite sa hore a pozrite sa dole.'
+      img: 'And they clapped their hands and danced around, ran after father and mother and then bread was thrown into the water and they all said: '
     },
     {
       name: '4',
-      img: 'There is a leak in the roof.'
+      img: 'Den nya är den vackraste!'
     },
     {
       name: '4',
-      img: 'Na streche zateká.'
+      img: ' The new one is the most beautiful!'
     },
     {
       name: '5',
-      img: 'It´s easy to repair.'
+      img: 'Så ung och så söt!'
     },
     {
       name: '5',
-      img: 'Je ľahké ho opraviť.'
+      img: 'So young and so cute!'
     },
     {
       name: '6',
-      img: 'But how can you reach up there?'
+      img: 'Och de gamla svanarna bugade sig för honom. '
     },
     {
       name: '6',
-      img: 'Ale ako sa tam dostaneš?'
+      img: 'And the old swans bowed to him. '
     },
     {
       name: '7',
-      img: 'I can´t climb up.'
+      img: 'Då kände han sig helt blyg och stack huvudet bakom vingarna.'
     },
     {
       name: '7',
-      img: 'Nemôžem vyliezť hore.'
+      img: 'Then he felt completely shy and stuck his head behind his wings. '
     },
     {
       name: '8',
-      img: 'It is much too steep.'
+      img: 'Han visste inte hur det var. '
     },
     {
       name: '8',
-      img: 'Je to príliš strmé.'
+      img: "He didn't know how it was. "
     },
     {
       name: '9',
-      img: 'I have to borrow a ladder.'
+      img: 'Han var allt för lycklig, men alls inte stolt, för ett gott hjärta blir aldrig stolt. '
     },
     {
       name: '9',
-      img: 'Musím si požičať rebrík.'
+      img: 'He was all too happy, but not at all proud, for a good heart is never proud. '
     },
     {
       name: '10',
-      img: 'The kid hops over the puddles and trips.'
+      img: 'Han tänkte på, hur han hade varit förföljd och förhånad och hörde nu alla säga, att han var den vackraste av alla vackra fåglar. '
     },
     {
       name: '10',
-      img: 'Dieťa skáče cez kaluže a zakopne.'
+      img: 'He thought of how he had been persecuted and mocked and now heard everyone say that he was the most beautiful of all beautiful birds.'
     },
     {
       name: '11',
-      img: 'She explains how the rain dripped in her tea.'
+      img: 'Och syrenerna böjde sig med kvistarna ända ned i vattnet till honom och solen sken så varmt och så gott. '
     },
     {
       name: '11',
-      img: 'Vysvetľuje, ako dážď kvapkal do jej čaju.'
+      img: 'And the lilacs bent their branches right down to him in the water, and the sun shone so warm and so good. '
     },
     {
       name: '12',
-      img: 'My window won´t close.'
+      img: 'Då blåste hans fjädrar upp sig, den smidiga halsen höjde sig och ur hjärtat jublade han:'
     },
     {
       name: '12',
-      img: 'Moje okno sa nezavrie.'
+      img: 'Then his feathers puffed up, his supple neck rose, and from his heart he exulted:'
     }
   ]
 
