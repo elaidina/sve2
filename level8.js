@@ -74,27 +74,27 @@ document.addEventListener('DOMContentLoaded', () => {
       img: 'Then they went home happy knowing that they no longer needed to be afraid of the wolf.'
     },
     {
-      name: 'Mästerkatten i stövlarna',
-      img: 'Puss in Boots'
+      name: '10',
+      img: 'En mjölnare hade tre söner.'
     },
     {
-      name: 'En mjölnare hade tre söner. ',
+      name: '10',
       img: 'A miller had three sons.'
     },
     {
-      name: 'Han ägde en kvarn, en åsna och en katt.',
-      img: 'He owned a mill, a donkey and a cat.'
+      name: '11',
+      img: 'När han dog ärvde den äldste sonen kvarnen, den näst äldste fick åsnan och till den yngste blev bara katten kvar.'
     },
     {
-      name: 'När han dog ärvde den äldste sonen kvarnen, den näst äldste fick åsnan och till den yngste blev bara katten kvar.',
+      name: '11',
       img: 'When he died, the oldest son inherited the mill, the second oldest got the donkey, and the youngest got only the cat.'
     },
     {
-      name: 'Den yngste sonen sa då för sig själv:',
-      img: 'The youngest son then said to himself:'
+      name: '12',
+      img: 'Vad ska jag ta mig till med en katt?'
     },
     {
-      name: 'Vad ska jag ta mig till med en katt?',
+      name: '12',
       img: 'What am I going to do with a cat?'
     }
   ]
