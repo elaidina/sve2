@@ -3,69 +3,69 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'Just don´t forget to hang up your stockings.'
+      img: 'Den unga prinsessan dröjde inte länge innan hon svarade ja till allt.'
     },
     {
       name: '1',
-      img: 'Len si nezabudni zavesiť pančuchy.'
+      img: "It didn't take long for the young princess to say yes to everything."
     },
     {
       name: '2',
-      img: 'We will leave a carrot out for your reindeer.'
+      img: 'Samtidigt körde en kusk fram en ståtlig vagn med åtta vackra hästar prydda med plymer,...'
     },
     {
       name: '2',
-      img: 'Necháme mrkvu pre tvojho soba.'
+      img: 'At the same time, a coachman drove a stately carriage with eight beautiful horses adorned with plumes, ...'
     },
     {
       name: '3',
-      img: 'Mummy peeped in to see how they were getting on.'
+      img: '...fjädrar och gyllene selar.'
     },
     {
       name: '3',
-      img: 'Mamička nakukla, aby zistila, ako sa im darí.'
+      img: '...feathers and golden harnesses.'
     },
     {
       name: '4',
-      img: 'Have they been good?'
+      img: ' Bakom vagnen red prinsens trogne tjänare, ...'
     },
     {
       name: '4',
-      img: 'Boli dobrí?'
+      img: "Behind the carriage rode the prince's faithful servant,..."
     },
     {
       name: '5',
-      img: 'She asked Father Christmas.'
+      img: '...Henrik, som hade varit så olycklig under sin härskares förtrollning, att hans hjärta nästan brustit.'
     },
     {
       name: '5',
-      img: 'Spýtala sa otca Vianoc.'
+      img: "Henrik, who had been so unhappy under his ruler's spell that his heart almost broke."
     },
     {
       name: '6',
-      img: 'So good they deserve a little present to open when they get home.'
+      img: 'De tog då farväl till kungen och satte sig i vagnen. '
     },
     {
       name: '6',
-      img: 'Tak dobré, že si zaslúžia malý darček, ktorý otvoria, keď sa vrátia domov.'
+      img: 'They then bade farewell to the king and sat down in the carriage.'
     },
     {
       name: '7',
-      img: 'He pulled out a present for Tom from a sack.'
+      img: ' De for glada och förväntansfulla iväg mot prinsens kungarike, ...'
     },
     {
       name: '7',
-      img: 'Z vreca vytiahol darček pre Toma.'
+      img: "They set off happily and expectantly towards the prince's kingdom,..."
     },
     {
       name: '8',
-      img: 'Thank you very much.'
+      img: '...dit de utan några förhinder anlände och där levde de lyckliga i många, många år.'
     },
     {
       name: '8',
-      img: 'Ďakujem veľmi pekne.'
+      img: '...where they arrived without any obstacles and lived there happily for many, many years.'
     },
-    {
+    /* {
       name: '9',
       img: 'As soon as he was back in the car he opened his present.'
     },
@@ -96,7 +96,7 @@ document.addEventListener('DOMContentLoaded', () => {
     {
       name: '12',
       img: 'Keď spal, veľa snežilo.'
-    }
+    } */
   ]
 
   cardArray.sort(() => 0.5 - Math.random())
@@ -166,7 +166,7 @@ audio1.play();
     cardsChosenId = []
     resultDisplay.textContent = cardsWon.length
     if  (cardsWon.length === cardArray.length/2) {
-      resultDisplay.innerHTML = " <h1>Congratulations! You found them all!</h1><h2>Level completed!</h2><a href='https://elaidina.github.io/sve2/level45.html'> Continue to next level </a>";
+      resultDisplay.innerHTML = " <h1>Congratulations! You found them all!</h1><h2>Level completed!</h2><a href='https://elaidina.github.io/sve1.html'> Continue to next level </a>";
 
 
       var audio3 = new Audio ("images/end.mp3")
